@@ -1,0 +1,12 @@
+00:41:22 **** Incremental Build of configuration Release for project CMSISv2p00_LPC12xx ****
+make all 
+make: Nothing to be done for `all'.
+00:41:23 **** Incremental Build of configuration Lib for project lib_small_printf_m0 ****
+make all 
+make: Nothing to be done for `all'.
+00:41:26 **** Incremental Build of configuration Lib for project UAB_COMMON_LIB ****
+make all 
+make: Nothing to be done for `all'.
+00:41:36 **** Incremental Build of configuration Release for project UAB_HELIX ****
+make all 
+make: Nothing to be done for `all'.

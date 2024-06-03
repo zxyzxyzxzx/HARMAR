@@ -1,0 +1,36 @@
+17:59:21 **** Build of configuration Debug for project UAB_PINNACLE ****
+make all 
+Building file: ../startup/aeabi_romdiv_patch.s
+Invoking: MCU Assembler
+arm-none-eabi-gcc -c -x assembler-with-cpp -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_ROMDIVIDE -I"C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\inc" -I"C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\inc" -I"C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_PINNACLE\inc" -g3 -mcpu=cortex-m0 -mthumb -o "startup/aeabi_romdiv_patch.o" "../startup/aeabi_romdiv_patch.s"
+Finished building: ../startup/aeabi_romdiv_patch.s
+ 
+Building file: ../startup/cr_startup_lpc12xx.c
+Invoking: MCU C Compiler
+arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_CMSIS=CMSISv2p00_LPC12xx -D__DISABLE_WATCHDOG -D__USE_ROMDIVIDE -I"C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\inc" -I"C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\inc" -I"C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\inc" -I"C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_PINNACLE\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -mcpu=cortex-m0 -mthumb -MMD -MP -MF"startup/cr_startup_lpc12xx.d" -MT"startup/cr_startup_lpc12xx.d" -o "startup/cr_startup_lpc12xx.o" "../startup/cr_startup_lpc12xx.c"
+Finished building: ../startup/cr_startup_lpc12xx.c
+ 
+Building file: ../src/main_PINNACLE.c
+Invoking: MCU C Compiler
+arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_CMSIS=CMSISv2p00_LPC12xx -D__DISABLE_WATCHDOG -D__USE_ROMDIVIDE -I"C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\inc" -I"C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\inc" -I"C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\inc" -I"C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_PINNACLE\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -mcpu=cortex-m0 -mthumb -MMD -MP -MF"src/main_PINNACLE.d" -MT"src/main_PINNACLE.d" -o "src/main_PINNACLE.o" "../src/main_PINNACLE.c"
+Finished building: ../src/main_PINNACLE.c
+ 
+Building file: ../src/uab_PINNACLE.c
+Invoking: MCU C Compiler
+arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_CMSIS=CMSISv2p00_LPC12xx -D__DISABLE_WATCHDOG -D__USE_ROMDIVIDE -I"C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\inc" -I"C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\inc" -I"C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\inc" -I"C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_PINNACLE\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -mcpu=cortex-m0 -mthumb -MMD -MP -MF"src/uab_PINNACLE.d" -MT"src/uab_PINNACLE.d" -o "src/uab_PINNACLE.o" "../src/uab_PINNACLE.c"
+Finished building: ../src/uab_PINNACLE.c
+ 
+Building target: UAB_PINNACLE.axf
+Invoking: MCU Linker
+arm-none-eabi-gcc -nostdlib -L"C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\Debug" -L"C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib" -L"C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib" -Xlinker -Map="UAB_PINNACLE.map" -Xlinker --gc-sections -Xlinker --allow-multiple-definition -mcpu=cortex-m0 -mthumb -T "UAB_PINNACLE_Debug.ld" -o "UAB_PINNACLE.axf"  ./startup/aeabi_romdiv_patch.o ./startup/cr_startup_lpc12xx.o  ./src/main_PINNACLE.o ./src/uab_PINNACLE.o   -lCMSISv2p00_LPC12xx -llib_small_printf_m0 -lUAB_COMMON_LIB
+Finished building target: UAB_PINNACLE.axf
+ 
+make --no-print-directory post-build
+Performing post-build steps
+arm-none-eabi-size "UAB_PINNACLE.axf"; arm-none-eabi-objcopy -O binary "UAB_PINNACLE.axf" "UAB_PINNACLE.bin" ; checksum -p LPC1225_301 -d "UAB_PINNACLE.bin"; arm-none-eabi-objcopy -I binary -O ihex "UAB_PINNACLE.bin"  "UAB_PINNACLE.hex";
+   text	   data	    bss	    dec	    hex	filename
+  25672	     48	   2524	  28244	   6e54	UAB_PINNACLE.axf
+Created checksum 0xefffdb75 at offset 0x1c in file UAB_PINNACLE.bin 
+
+17:59:25 Build Finished (took 3s.844ms)
+

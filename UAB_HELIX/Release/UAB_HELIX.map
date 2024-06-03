@@ -1,0 +1,1399 @@
+Archive member included because of file (symbol)
+
+C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\Release\libCMSISv2p00_LPC12xx.a(system_LPC122x.o)
+                              ./startup/cr_startup_lpc12xx.o (SystemInit)
+C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_float.o)
+                              ./src/main_HELIX.o (func_printf_float)
+C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_support.o)
+                              C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_float.o) (prints)
+C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_utils.o)
+                              C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_float.o) (small_strlen)
+C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+                              ./src/main_HELIX.o (alarms_light_led)
+C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o)
+                              ./src/uab_HELIX.o (uabVoltsConvert)
+C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o)
+                              ./src/main_HELIX.o (readInfoPage32)
+C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+                              C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o) (UabIr1UnitNum)
+C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(speed.o)
+                              ./src/uab_HELIX.o (uabPwmAdjust)
+C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                              ./src/main_HELIX.o (UART0_Buffer)
+C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(utils.o)
+                              ./src/main_HELIX.o (delayUsec)
+C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(wdt.o)
+                              ./src/main_HELIX.o (wdtFeed)
+c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memcpy.o)
+                              C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o) (memcpy)
+c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memset.o)
+                              ./src/uab_HELIX.o (memset)
+c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+                              ./startup/cr_startup_lpc12xx.o (__main)
+c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+                              C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_float.o) (__aeabi_dmul)
+c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+                              ./src/uab_HELIX.o (__aeabi_fmul)
+c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(llong.o)
+                              c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o) (__aeabi_lmul)
+c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(memcpy.o)
+                              c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memcpy.o) (__aeabi_memcpy)
+c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(thumb1_switch_helpers.o)
+                              ./src/uab_HELIX.o (__gnu_thumb1_case_uqi)
+
+Allocating common symbols
+Common symbol       size              file
+
+UabUpDownState      0x1               ./src/uab_HELIX.o
+UART1_XmitBuf       0x40              C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+UabBegPwm           0x1               ./src/uab_HELIX.o
+UabPwmStep          0x1               ./src/uab_HELIX.o
+UabInstUpDownState  0x1               ./src/uab_HELIX.o
+UabRampInterval     0x1               ./src/uab_HELIX.o
+UabPwmScaleFactor   0x4               C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(speed.o)
+IrPwp               0x68              C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+UabRfLeftRightState
+                    0x1               ./src/uab_HELIX.o
+UabSystemId         0x4               ./src/uab_HELIX.o
+UabTrackOrientation
+                    0x1               ./src/uab_HELIX.o
+UART1_Buffer        0x40              C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+UabPwm              0x1               ./src/uab_HELIX.o
+pDivRom_uidiv       0x4               ./startup/cr_startup_lpc12xx.o
+previous_faults     0x4               C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+alarm_counter       0x2               C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+XmitFifoBuf         0x6b8             C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+UabNominalPwm       0x4               C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(speed.o)
+UART0_XmitBuf       0x40              C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+pDivRom_idiv        0x4               ./startup/cr_startup_lpc12xx.o
+UART0_Buffer        0x40              C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+alarm_active        0x1               C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+UabBrakeState       0x1               ./src/uab_HELIX.o
+UabEndPwm           0x1               ./src/uab_HELIX.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 ./startup/aeabi_romdiv_patch.o
+ .data          0x00000000        0x0 ./startup/aeabi_romdiv_patch.o
+ .bss           0x00000000        0x0 ./startup/aeabi_romdiv_patch.o
+ .text          0x00000000        0x0 ./startup/cr_startup_lpc12xx.o
+ .data          0x00000000        0x0 ./startup/cr_startup_lpc12xx.o
+ .bss           0x00000000        0x0 ./startup/cr_startup_lpc12xx.o
+ .text          0x00000000        0x0 ./src/main_HELIX.o
+ .data          0x00000000        0x0 ./src/main_HELIX.o
+ .bss           0x00000000        0x0 ./src/main_HELIX.o
+ .text.uabRfInit
+                0x00000000        0x2 ./src/main_HELIX.o
+ .text          0x00000000        0x0 ./src/uab_HELIX.o
+ .data          0x00000000        0x0 ./src/uab_HELIX.o
+ .bss           0x00000000        0x0 ./src/uab_HELIX.o
+ .text.uabMDriveDisable
+                0x00000000       0x1c ./src/uab_HELIX.o
+ .text.uabChargerInitDisable
+                0x00000000       0x1c ./src/uab_HELIX.o
+ .text.uabCheckStopDownRight
+                0x00000000        0x6 ./src/uab_HELIX.o
+ .text.uabCheckStopUpLeft
+                0x00000000        0x6 ./src/uab_HELIX.o
+ .bss.UabRunawayAmps
+                0x00000000        0x4 ./src/uab_HELIX.o
+ .text          0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\Release\libCMSISv2p00_LPC12xx.a(system_LPC122x.o)
+ .bss           0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\Release\libCMSISv2p00_LPC12xx.a(system_LPC122x.o)
+ .text.SystemCoreClockUpdate
+                0x00000000       0x9c C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\Release\libCMSISv2p00_LPC12xx.a(system_LPC122x.o)
+ .text.WWDT_Disable
+                0x00000000       0x34 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\Release\libCMSISv2p00_LPC12xx.a(system_LPC122x.o)
+ .rodata        0x00000000       0x40 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\Release\libCMSISv2p00_LPC12xx.a(system_LPC122x.o)
+ .text          0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_float.o)
+ .data          0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_float.o)
+ .bss           0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_float.o)
+ .text.nsprintf
+                0x00000000       0x24 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_float.o)
+ .text          0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_support.o)
+ .data          0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_support.o)
+ .bss           0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_support.o)
+ .text.nsprintf_write_init
+                0x00000000       0x1c C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_support.o)
+ .text.nsprintf_write
+                0x00000000       0x30 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_support.o)
+ .bss.nsprintf_buffer_index
+                0x00000000        0x4 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_support.o)
+ .bss.nsprintf_buffer
+                0x00000000        0x4 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_support.o)
+ .bss.nsprintf_buffer_length
+                0x00000000        0x4 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_support.o)
+ .text          0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_utils.o)
+ .data          0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_utils.o)
+ .bss           0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_utils.o)
+ .text.small_strcmp
+                0x00000000       0x1e C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_utils.o)
+ .text.small_stricmp
+                0x00000000       0x34 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_utils.o)
+ .text.small_strim
+                0x00000000       0x2c C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_utils.o)
+ .text.gethex   0x00000000       0x34 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_utils.o)
+ .text.small_fmodf
+                0x00000000       0x68 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_utils.o)
+ .text          0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .data          0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .bss           0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .bss.previous_motion_state
+                0x00000000        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .text          0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o)
+ .data          0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o)
+ .bss           0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o)
+ .text          0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o)
+ .data          0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o)
+ .bss           0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o)
+ .text.uabLoadInfoPageIrUnits
+                0x00000000       0x58 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o)
+ .text          0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+ .data          0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+ .bss           0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+ .text.uabIrInit
+                0x00000000       0x30 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+ .text.uabIrPatternGet
+                0x00000000       0x7c C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+ .text.uabIrStateGet
+                0x00000000      0x204 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+ .bss.IrLearning
+                0x00000000        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+ .bss.UabIrState
+                0x00000000        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+ .text          0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(speed.o)
+ .data          0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(speed.o)
+ .bss           0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(speed.o)
+ .text          0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+ .data          0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+ .bss           0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+ .text.aftof    0x00000000       0xa0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+ .bss.XmitSendDelay
+                0x00000000        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+ .text          0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(utils.o)
+ .data          0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(utils.o)
+ .bss           0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(utils.o)
+ .text          0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(wdt.o)
+ .data          0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(wdt.o)
+ .bss           0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(wdt.o)
+ .text.wdtDisable
+                0x00000000       0x18 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(wdt.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memcpy.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memcpy.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memset.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memset.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memset.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_drsub
+                0x00000000       0x28 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dneg
+                0x00000000       0x10 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_d2uiz
+                0x00000000       0x38 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_d2lz
+                0x00000000       0x78 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_d2ulz
+                0x00000000       0x58 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+ .text.__bhs_ul2d
+                0x00000000       0xb4 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_l2d
+                0x00000000       0x20 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_ul2d
+                0x00000000        0xc c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dcmpeq
+                0x00000000       0x40 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dcmpgt
+                0x00000000       0x64 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dcmple
+                0x00000000       0x64 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dcmpun
+                0x00000000       0x1c c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_cdcmple
+                0x00000000       0x2e c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_cdrcmple
+                0x00000000       0x14 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_frsub
+                0x00000000       0x10 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fneg
+                0x00000000        0x8 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_f2uiz
+                0x00000000       0x26 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_f2lz
+                0x00000000       0x64 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_f2ulz
+                0x00000000       0x3e c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__bhs_ul2f
+                0x00000000       0x84 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_l2f
+                0x00000000       0x20 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_ul2f
+                0x00000000        0xc c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fcmpeq
+                0x00000000       0x22 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fcmpge
+                0x00000000       0x44 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fcmpun
+                0x00000000       0x18 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_cfcmple
+                0x00000000       0x24 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_cfrcmple
+                0x00000000        0xe c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(llong.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(llong.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(llong.o)
+ .text.__aeabi_llong_llsl
+                0x00000000       0x18 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(llong.o)
+ .text.__aeabi_llong_llsr
+                0x00000000       0x18 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(llong.o)
+ .text.__aeabi_llong_lasr
+                0x00000000       0x18 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(llong.o)
+ .text.__aeabi_llong_lcmp
+                0x00000000       0x14 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(llong.o)
+ .text.__aeabi_llong_ulcmp
+                0x00000000       0x10 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(llong.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(memcpy.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memmove
+                0x00000000       0x1c c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memclr
+                0x00000000        0x6 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memset
+                0x00000000        0x8 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(memcpy.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(thumb1_switch_helpers.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(thumb1_switch_helpers.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(thumb1_switch_helpers.o)
+ .text.__gnu_thumb1_case_sqi
+                0x00000000       0x10 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(thumb1_switch_helpers.o)
+ .text.__gnu_thumb1_case_shi
+                0x00000000       0x10 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(thumb1_switch_helpers.o)
+ .text.__gnu_thumb1_case_si
+                0x00000000       0x18 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(thumb1_switch_helpers.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash64         0x00000000         0x00010000         xr
+RamLoc8          0x10000000         0x00002000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./startup/aeabi_romdiv_patch.o
+LOAD ./startup/cr_startup_lpc12xx.o
+LOAD ./src/main_HELIX.o
+LOAD ./src/uab_HELIX.o
+LOAD C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\Release\libCMSISv2p00_LPC12xx.a
+LOAD C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a
+LOAD C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a
+START GROUP
+LOAD c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a
+LOAD c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a
+END GROUP
+                0x00010000                __top_MFlash64 = 0x10000
+                0x10002000                __top_RamLoc8 = 0x10002000
+
+.text           0x00000000     0x4ef4
+ FILL mask 0xff
+                0x00000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xbc ./startup/cr_startup_lpc12xx.o
+                0x00000000                g_pfnVectors
+                0x000000bc                . = ALIGN (0x4)
+                0x000000bc                __section_table_start = .
+                0x000000bc                __data_section_table = .
+                0x000000bc        0x4 LONG 0x4ef4 LOADADDR (.data)
+                0x000000c0        0x4 LONG 0x10000000 ADDR (.data)
+                0x000000c4        0x4 LONG 0x38 SIZEOF (.data)
+                0x000000c8                __data_section_table_end = .
+                0x000000c8                __bss_section_table = .
+                0x000000c8        0x4 LONG 0x10000038 ADDR (.bss)
+                0x000000cc        0x4 LONG 0xa00 SIZEOF (.bss)
+                0x000000d0                __bss_section_table_end = .
+                0x000000d0                __section_table_end = .
+ *(.after_vectors*)
+ .after_vectors
+                0x000000d0       0xac ./startup/cr_startup_lpc12xx.o
+                0x000000d0                NMI_Handler
+                0x000000d4                HardFault_Handler
+                0x000000d8                SVC_Handler
+                0x000000dc                PendSV_Handler
+                0x000000e4                data_init
+                0x000000f6                bss_init
+                0x00000108                ResetISR
+                0x00000178                IntDefaultHandler
+                0x00000178                SSP_IRQHandler
+                0x00000178                RTC_IRQHandler
+                0x00000178                TIMER32_0_IRQHandler
+                0x00000178                TIMER16_1_IRQHandler
+                0x00000178                TIMER32_1_IRQHandler
+                0x00000178                PIOINT2_IRQHandler
+                0x00000178                BOD_IRQHandler
+                0x00000178                WAKEUP_IRQHandler
+                0x00000178                PIOINT0_IRQHandler
+                0x00000178                I2C_IRQHandler
+                0x00000178                WDT_IRQHandler
+                0x00000178                ADC_IRQHandler
+                0x00000178                COMP_IRQHandler
+                0x00000178                TIMER16_0_IRQHandler
+                0x00000178                DMA_IRQHandler
+                0x000002fc                . = 0x2fc
+ *fill*         0x0000017c      0x180 ff
+                0x000002fc                PROVIDE (__CRP_WORD_START__, .)
+ *(.crp)
+ .crp           0x000002fc        0x4 ./src/main_HELIX.o
+                0x000002fc                CRP_WORD
+                0x00000300                PROVIDE (__CRP_WORD_END__, .)
+                0x00000001                ASSERT (! ((__CRP_WORD_START__ == __CRP_WORD_END__)), Linker CRP Enabled, but no CRP_WORD provided within application)
+ *(.text*)
+ .text.__aeabi_idiv
+                0x00000300       0x10 ./startup/aeabi_romdiv_patch.o
+                0x00000300                __aeabi_idivmod
+                0x00000300                __aeabi_idiv
+ .text.__aeabi_uidiv
+                0x00000310       0x10 ./startup/aeabi_romdiv_patch.o
+                0x00000310                __aeabi_uidivmod
+                0x00000310                __aeabi_uidiv
+ .text.SysTick_Handler
+                0x00000320       0x24 ./src/main_HELIX.o
+                0x00000320                SysTick_Handler
+ .text.uabCommInit
+                0x00000344       0xbc ./src/main_HELIX.o
+                0x00000344                uabCommInit
+ .text.startup.main
+                0x00000400      0x560 ./src/main_HELIX.o
+                0x00000400                main
+ .text.uabEvent
+                0x00000960       0x94 ./src/uab_HELIX.o
+                0x00000960                uabEvent
+ .text.uabInstModeCheck
+                0x000009f4       0x50 ./src/uab_HELIX.o
+                0x000009f4                uabInstModeCheck
+ .text.uabFaultSet
+                0x00000a44       0x84 ./src/uab_HELIX.o
+                0x00000a44                uabFaultSet
+ .text.uabFaultClr
+                0x00000ac8       0x4c ./src/uab_HELIX.o
+                0x00000ac8                uabFaultClr
+ .text.uabMajorFaultChargeDisplay
+                0x00000b14       0x64 ./src/uab_HELIX.o
+                0x00000b14                uabMajorFaultChargeDisplay
+ .text.uabMajorFaultVoltsDisplay
+                0x00000b78       0x6c ./src/uab_HELIX.o
+                0x00000b78                uabMajorFaultVoltsDisplay
+ .text.uab12vCheck
+                0x00000be4       0x3c ./src/uab_HELIX.o
+                0x00000be4                uab12vCheck
+ .text.uabLowBatteryCheck
+                0x00000c20       0xc8 ./src/uab_HELIX.o
+                0x00000c20                uabLowBatteryCheck
+ .text.uabVeryLowBatteryCheck
+                0x00000ce8       0xd0 ./src/uab_HELIX.o
+                0x00000ce8                uabVeryLowBatteryCheck
+ .text.uabRunawayCheck
+                0x00000db8        0x4 ./src/uab_HELIX.o
+                0x00000db8                uabRunawayCheck
+ .text.uabDiagLed
+                0x00000dbc       0x70 ./src/uab_HELIX.o
+                0x00000dbc                uabDiagLed
+ .text.uabCpuLedOn
+                0x00000e2c       0x10 ./src/uab_HELIX.o
+                0x00000e2c                uabCpuLedOn
+ .text.uabCpuLedOff
+                0x00000e3c       0x14 ./src/uab_HELIX.o
+                0x00000e3c                uabCpuLedOff
+ .text.uabMDriveEnable
+                0x00000e50       0x18 ./src/uab_HELIX.o
+                0x00000e50                uabMDriveEnable
+ .text.uabChargerDisable
+                0x00000e68       0x24 ./src/uab_HELIX.o
+                0x00000e68                uabChargerDisable
+ .text.uabChargerEnable
+                0x00000e8c       0x24 ./src/uab_HELIX.o
+                0x00000e8c                uabChargerEnable
+ .text.uabChargerInitEnable
+                0x00000eb0       0x18 ./src/uab_HELIX.o
+                0x00000eb0                uabChargerInitEnable
+ .text.uabChargeCheck
+                0x00000ec8      0x410 ./src/uab_HELIX.o
+                0x00000ec8                uabChargeCheck
+ .text.uabVoltsCurrSenseDisplay
+                0x000012d8       0x90 ./src/uab_HELIX.o
+                0x000012d8                uabVoltsCurrSenseDisplay
+ .text.uabMotorVoltsDisplay
+                0x00001368        0x2 ./src/uab_HELIX.o
+                0x00001368                uabMotorVoltsDisplay
+ *fill*         0x0000136a        0x2 00
+ .text.uabInstUpDownSwitchStateGet
+                0x0000136c       0x58 ./src/uab_HELIX.o
+                0x0000136c                uabInstUpDownSwitchStateGet
+ .text.uabUpDownLeftRightSwitchStateGet
+                0x000013c4      0x174 ./src/uab_HELIX.o
+                0x000013c4                uabUpDownLeftRightSwitchStateGet
+ .text.uabBrakeOff
+                0x00001538       0x30 ./src/uab_HELIX.o
+                0x00001538                uabBrakeOff
+ .text.uabBrakeOn
+                0x00001568       0x30 ./src/uab_HELIX.o
+                0x00001568                uabBrakeOn
+ .text.uabMotorOff
+                0x00001598       0x64 ./src/uab_HELIX.o
+                0x00001598                uabMotorOff
+ *fill*         0x000015fc        0x4 00
+ .text.uabSystemOverloadCheck
+                0x00001600      0x170 ./src/uab_HELIX.o
+                0x00001600                uabSystemOverloadCheck
+ .text.uabSuperLowBatteryCheck
+                0x00001770       0xd4 ./src/uab_HELIX.o
+                0x00001770                uabSuperLowBatteryCheck
+ .text.uabMajorFaultHandler
+                0x00001844      0x198 ./src/uab_HELIX.o
+                0x00001844                uabMajorFaultHandler
+ .text.uabMotorOn
+                0x000019dc       0xec ./src/uab_HELIX.o
+                0x000019dc                uabMotorOn
+ .text.uabPwmInit
+                0x00001ac8       0x4c ./src/uab_HELIX.o
+                0x00001ac8                uabPwmInit
+ .text.uabPwmChange
+                0x00001b14       0x18 ./src/uab_HELIX.o
+                0x00001b14                uabPwmChange
+ .text.uabPioGet
+                0x00001b2c       0x78 ./src/uab_HELIX.o
+                0x00001b2c                uabPioGet
+ .text.uabFaultsGet
+                0x00001ba4      0x140 ./src/uab_HELIX.o
+                0x00001ba4                uabFaultsGet
+ .text.uabCheckLimit
+                0x00001ce4       0x70 ./src/uab_HELIX.o
+                0x00001ce4                uabCheckLimit
+ .text.uabCheckTopBottom
+                0x00001d54       0x1e ./src/uab_HELIX.o
+                0x00001d54                uabCheckTopBottom
+ *fill*         0x00001d72        0x2 00
+ .text.uabTopStop
+                0x00001d74       0x1c ./src/uab_HELIX.o
+                0x00001d74                uabTopStop
+ .text.uabBottomStop
+                0x00001d90       0x1c ./src/uab_HELIX.o
+                0x00001d90                uabBottomStop
+ .text.uabMotionSet
+                0x00001dac      0x6e0 ./src/uab_HELIX.o
+                0x00001dac                uabMotionSet
+ .text.uabCheckSwitchHelix
+                0x0000248c      0x180 ./src/uab_HELIX.o
+                0x0000248c                uabCheckSwitchHelix
+ .text.uabInit  0x0000260c       0xe0 ./src/uab_HELIX.o
+                0x0000260c                uabInit
+ .text.SystemInit
+                0x000026ec       0xac C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\Release\libCMSISv2p00_LPC12xx.a(system_LPC122x.o)
+                0x000026ec                SystemInit
+ .text.dbl2stri
+                0x00002798      0x160 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_float.o)
+                0x00002798                dbl2stri
+ .text.printf_format_float
+                0x000028f8      0x1e8 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_float.o)
+                0x000028f8                printf_format_float
+ .text.func_printf_float
+                0x00002ae0       0x16 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_float.o)
+                0x00002ae0                func_printf_float
+ .text.prints   0x00002af6       0x7a C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_support.o)
+                0x00002af6                prints
+ .text.printi   0x00002b70       0xa4 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_support.o)
+                0x00002b70                printi
+ .text.small_strlen
+                0x00002c14       0x12 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_utils.o)
+                0x00002c14                small_strlen
+ *fill*         0x00002c26        0x2 00
+ .text.alarms_faults_serviced
+                0x00002c28       0x14 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .text.alarms_manage_fault_service
+                0x00002c3c       0x78 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .text.alarms_reset_alarm
+                0x00002cb4       0x18 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .text.alarms_major_fault_service
+                0x00002ccc       0x64 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .text.alarms_light_led
+                0x00002d30       0x30 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+                0x00002d30                alarms_light_led
+ .text.alarms_safety_led
+                0x00002d60       0x18 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .text.alarms_beep_on
+                0x00002d78       0x10 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+                0x00002d78                alarms_beep_on
+ .text.alarms_beep_off
+                0x00002d88       0x14 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+                0x00002d88                alarms_beep_off
+ .text.alarms_beep_once.isra.2.constprop.7
+                0x00002d9c       0x5c C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .text.alarms_switch_check
+                0x00002df8       0x38 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .text.alarms_pulse_beep_duration
+                0x00002e30       0x6c C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .text.alarms_safety_process
+                0x00002e9c       0x24 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .text.alarms_fault_handler
+                0x00002ec0      0x48c C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+                0x00002ec0                alarms_fault_handler
+ .text.uabVoltsConvert
+                0x0000334c       0x84 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o)
+                0x0000334c                uabVoltsConvert
+ .text.uabAdcRead
+                0x000033d0       0x48 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o)
+                0x000033d0                uabAdcRead
+ .text.uabCompVoltsRead
+                0x00003418       0x88 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o)
+                0x00003418                uabCompVoltsRead
+ .text.uabAdcVoltsRead
+                0x000034a0       0x26 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o)
+                0x000034a0                uabAdcVoltsRead
+ *fill*         0x000034c6        0x2 00
+ .text.uabAdcAmpsRead
+                0x000034c8       0x50 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o)
+                0x000034c8                uabAdcAmpsRead
+ .text.uabCompAdcInit
+                0x00003518       0xb8 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o)
+                0x00003518                uabCompAdcInit
+ .text.readInfoPage32
+                0x000035d0       0x24 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o)
+                0x000035d0                readInfoPage32
+ .text.writeInfoPage32
+                0x000035f4       0x50 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o)
+                0x000035f4                writeInfoPage32
+ .text.eraseInfoPage
+                0x00003644       0x34 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o)
+                0x00003644                eraseInfoPage
+ .text.uabInfoPageInit
+                0x00003678       0x80 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o)
+                0x00003678                uabInfoPageInit
+ .text.uabInfoPageGet
+                0x000036f8        0xa C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o)
+                0x000036f8                uabInfoPageGet
+ *fill*         0x00003702        0x2 00
+ .text.PIOINT1_IRQHandler
+                0x00003704       0xc0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+                0x00003704                PIOINT1_IRQHandler
+ .text.uabPwmAdjust
+                0x000037c4       0xa8 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(speed.o)
+                0x000037c4                uabPwmAdjust
+ .text.uabCsscBegin
+                0x0000386c       0x68 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(speed.o)
+                0x0000386c                uabCsscBegin
+ *fill*         0x000038d4        0x4 00
+ .text.uabCsscCheck
+                0x000038d8       0xf0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(speed.o)
+                0x000038d8                uabCsscCheck
+ .text.uabCsscEnd
+                0x000039c8       0x20 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(speed.o)
+                0x000039c8                uabCsscEnd
+ .text.UART0_IRQHandler
+                0x000039e8       0x9c C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x000039e8                UART0_IRQHandler
+ .text.UART1_IRQHandler
+                0x00003a84       0x9c C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x00003a84                UART1_IRQHandler
+ .text.UARTInit
+                0x00003b20      0x1c0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x00003b20                UARTInit
+ .text.UARTSend
+                0x00003ce0       0x38 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x00003ce0                UARTSend
+ .text.putchar  0x00003d18       0x18 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x00003d18                putchar
+ .text.xmitFifoBufSend
+                0x00003d30       0x50 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x00003d30                xmitFifoBufSend
+ .text.waitForAck
+                0x00003d80      0x104 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x00003d80                waitForAck
+ .text.xmitFifoBufLoad
+                0x00003e84       0x74 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x00003e84                xmitFifoBufLoad
+ .text.delayUsec
+                0x00003ef8       0x28 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(utils.o)
+                0x00003ef8                delayUsec
+ .text.delayMs  0x00003f20       0x6c C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(utils.o)
+                0x00003f20                delayMs
+ .text.wdtFeed  0x00003f8c       0x1c C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(wdt.o)
+                0x00003f8c                wdtFeed
+ .text.wdtEnable
+                0x00003fa8       0x18 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(wdt.o)
+                0x00003fa8                wdtEnable
+ .text.wdtInit  0x00003fc0       0x50 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(wdt.o)
+                0x00003fc0                wdtInit
+ .text.memcpy   0x00004010        0x8 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memcpy.o)
+                0x00004010                memcpy
+ .text.memset   0x00004018        0x8 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memset.o)
+                0x00004018                memset
+ .text.__weak_main
+                0x00004020        0x8 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+                0x00004020                __weak_main
+                0x00004020                __main
+ .text.__aeabi_dmul
+                0x00004028      0x180 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+                0x00004028                __aeabi_dmul
+ .text.__aeabi_ddiv
+                0x000041a8      0x178 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+                0x000041a8                __aeabi_ddiv
+ .text.__aeabi_dsub
+                0x00004320      0x1d8 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+                0x00004320                __aeabi_dsub
+ .text.__aeabi_dadd
+                0x000044f8      0x140 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+                0x000044f8                __aeabi_dadd
+ .text.__aeabi_d2f
+                0x00004638       0x5c c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+                0x00004638                __aeabi_d2f
+ .text.__aeabi_d2iz
+                0x00004694       0x4c c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+                0x00004694                __aeabi_d2iz
+ .text.__bhs_ui2d
+                0x000046e0       0x5e c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+                0x000046e0                __bhs_ui2d
+ .text.__aeabi_i2d
+                0x0000473e       0x16 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+                0x0000473e                __aeabi_i2d
+ .text.__aeabi_ui2d
+                0x00004754        0xc c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+                0x00004754                __aeabi_ui2d
+ .text.__aeabi_dcmplt
+                0x00004760       0x64 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+                0x00004760                __aeabi_dcmplt
+ .text.__aeabi_dcmpge
+                0x000047c4       0x64 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+                0x000047c4                __aeabi_dcmpge
+ .text.__aeabi_fmul
+                0x00004828       0xd0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+                0x00004828                __aeabi_fmul
+ .text.__aeabi_fdiv
+                0x000048f8       0xe4 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+                0x000048f8                __aeabi_fdiv
+ .text.__aeabi_fsub
+                0x000049dc      0x124 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+                0x000049dc                __aeabi_fsub
+ .text.__aeabi_fadd
+                0x00004b00       0xa8 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+                0x00004b00                __aeabi_fadd
+ .text.__aeabi_f2iz
+                0x00004ba8       0x38 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+                0x00004ba8                __aeabi_f2iz
+ .text.__bhs_ui2f
+                0x00004be0       0x62 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+                0x00004be0                __bhs_ui2f
+ .text.__aeabi_i2f
+                0x00004c42       0x16 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+                0x00004c42                __aeabi_i2f
+ .text.__aeabi_ui2f
+                0x00004c58        0xc c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+                0x00004c58                __aeabi_ui2f
+ .text.__aeabi_f2d
+                0x00004c64       0x3c c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+                0x00004c64                __aeabi_f2d
+ .text.__aeabi_fcmplt
+                0x00004ca0       0x42 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+                0x00004ca0                __aeabi_fcmplt
+ .text.__aeabi_fcmpgt
+                0x00004ce2       0x40 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+                0x00004ce2                __aeabi_fcmpgt
+ .text.__aeabi_fcmple
+                0x00004d22       0x44 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+                0x00004d22                __aeabi_fcmple
+ .text.__aeabi_llong_lmul
+                0x00004d66       0x2e c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(llong.o)
+                0x00004d66                __aeabi_lmul
+ .text.__aeabi_memcpy
+                0x00004d94       0x2c c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(memcpy.o)
+                0x00004d94                __aeabi_memcpy4
+                0x00004d94                __aeabi_memcpy8
+                0x00004d94                __aeabi_memcpy
+ .text.__aeabi_memset_lowlevel
+                0x00004dc0       0x2a c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(memcpy.o)
+                0x00004dc0                __aeabi_lowlevel_memset
+ .text.__gnu_thumb1_case_uqi
+                0x00004dea       0x10 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(thumb1_switch_helpers.o)
+                0x00004dea                __gnu_thumb1_case_uqi
+ .text.__gnu_thumb1_case_uhi
+                0x00004dfa       0x10 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(thumb1_switch_helpers.o)
+                0x00004dfa                __gnu_thumb1_case_uhi
+ *(.rodata .rodata.* .constdata .constdata.*)
+ .rodata.str1.1
+                0x00004e0a       0x87 ./src/main_HELIX.o
+                                 0x8f (size before relaxing)
+ .rodata.str1.1
+                0x00004e91       0x56 ./src/uab_HELIX.o
+ .rodata.CSWTCH.148
+                0x00004ee7        0x3 ./src/uab_HELIX.o
+ .rodata.str1.1
+                0x00004eea        0x7 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_float.o)
+                0x00004ef4                . = ALIGN (0x4)
+ *fill*         0x00004ef1        0x3 ff
+
+.glue_7         0x00004ef4        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x00004ef4        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x00004ef4        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x00004ef4        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x00004ef4                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00004ef4                __exidx_end = .
+                0x00004ef4                _etext = .
+
+.uninit_RESERVED
+                0x10000000        0x0
+ *(.bss.$RESERVED*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _end_uninit_RESERVED = .
+
+.data           0x10000000       0x38 load address 0x00004ef4
+ FILL mask 0xff
+                0x10000000                _data = .
+ *(vtable)
+ *(.data*)
+ .data.prevTrackOrien.4701
+                0x10000000        0x1 ./src/main_HELIX.o
+ .data.prevChar.4705
+                0x10000001        0x1 ./src/main_HELIX.o
+ *fill*         0x10000002        0x2 00
+ .data.prev_pio1.4923
+                0x10000004        0x4 ./src/uab_HELIX.o
+ .data.prev_pio2.4924
+                0x10000008        0x4 ./src/uab_HELIX.o
+ .data.charge1.4858
+                0x1000000c        0x1 ./src/uab_HELIX.o
+ .data.first_pass.4857
+                0x1000000d        0x1 ./src/uab_HELIX.o
+ .data.firstTime.4861
+                0x1000000e        0x1 ./src/uab_HELIX.o
+ .data.UabChargeStripStopped
+                0x1000000f        0x1 ./src/uab_HELIX.o
+                0x1000000f                UabChargeStripStopped
+ .data.SeqNum   0x10000010        0x1 ./src/uab_HELIX.o
+                0x10000010                SeqNum
+ *fill*         0x10000011        0x3 00
+ .data.displayVoltsCntr.4743
+                0x10000014        0x4 ./src/uab_HELIX.o
+ .data.prev_pio0.4922
+                0x10000018        0x4 ./src/uab_HELIX.o
+ .data.minuteCntr.4745
+                0x1000001c        0x4 ./src/uab_HELIX.o
+ .data          0x10000020        0x8 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\Release\libCMSISv2p00_LPC12xx.a(system_LPC122x.o)
+                0x10000020                MainClock
+                0x10000024                SystemCoreClock
+ .data.previous_alarm_state
+                0x10000028        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+                0x10000028                previous_alarm_state
+ .data.IrPwpProcessed
+                0x10000029        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+                0x10000029                IrPwpProcessed
+ *fill*         0x1000002a        0x2 00
+ .data.UabIr0UnitNum
+                0x1000002c        0x4 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+                0x1000002c                UabIr0UnitNum
+ .data.UabIr1UnitNum
+                0x10000030        0x4 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+                0x10000030                UabIr1UnitNum
+ .data.UART0_TxEmpty
+                0x10000034        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x10000034                UART0_TxEmpty
+ .data.UART1_TxEmpty
+                0x10000035        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x10000035                UART1_TxEmpty
+                0x10000038                . = ALIGN (0x4)
+ *fill*         0x10000036        0x2 ff
+                0x10000038                _edata = .
+
+.bss            0x10000038      0xa00 load address 0x00004f2c
+                0x10000038                _bss = .
+ *(.bss*)
+ .bss.UabPioCnt
+                0x10000038        0x4 ./src/main_HELIX.o
+ .bss.DelayCnt  0x1000003c        0x4 ./src/main_HELIX.o
+                0x1000003c                DelayCnt
+ .bss.UpdateDelay
+                0x10000040        0x1 ./src/main_HELIX.o
+ *fill*         0x10000041        0x3 00
+ .bss.buff.4702
+                0x10000044       0x2c ./src/main_HELIX.o
+ .bss.SysTicks  0x10000070        0x4 ./src/main_HELIX.o
+                0x10000070                SysTicks
+ .bss.prev_faults.4930
+                0x10000074        0x4 ./src/uab_HELIX.o
+ .bss.charge_duration.4856
+                0x10000078        0x4 ./src/uab_HELIX.o
+ .bss.UabSlowStartCnt
+                0x1000007c        0x4 ./src/uab_HELIX.o
+                0x1000007c                UabSlowStartCnt
+ .bss.rf_delay.4891
+                0x10000080        0x2 ./src/uab_HELIX.o
+ *fill*         0x10000082        0x2 00
+ .bss.waitTime.4860
+                0x10000084        0x4 ./src/uab_HELIX.o
+ .bss.UabUpDownReleased
+                0x10000088        0x1 ./src/uab_HELIX.o
+                0x10000088                UabUpDownReleased
+ .bss.causeCntr.4744
+                0x10000089        0x1 ./src/uab_HELIX.o
+ *fill*         0x1000008a        0x2 00
+ .bss.bat_volts.4774
+                0x1000008c       0x14 ./src/uab_HELIX.o
+ .bss.right_delay.4893
+                0x100000a0        0x2 ./src/uab_HELIX.o
+ .bss.UabChargerInitState
+                0x100000a2        0x1 ./src/uab_HELIX.o
+                0x100000a2                UabChargerInitState
+ .bss.doBeepOffCntr.4749
+                0x100000a3        0x1 ./src/uab_HELIX.o
+ .bss.ind.4762  0x100000a4        0x1 ./src/uab_HELIX.o
+ .bss.UabOffchargeFlag
+                0x100000a5        0x1 ./src/uab_HELIX.o
+                0x100000a5                UabOffchargeFlag
+ .bss.UabOffCharge
+                0x100000a6        0x1 ./src/uab_HELIX.o
+                0x100000a6                UabOffCharge
+ *fill*         0x100000a7        0x1 00
+ .bss.UabSense12Volts
+                0x100000a8        0x4 ./src/uab_HELIX.o
+                0x100000a8                UabSense12Volts
+ .bss.UabMajorFaultInProgress
+                0x100000ac        0x1 ./src/uab_HELIX.o
+                0x100000ac                UabMajorFaultInProgress
+ *fill*         0x100000ad        0x3 00
+ .bss.UabSystemOverLoadAmps
+                0x100000b0        0x4 ./src/uab_HELIX.o
+                0x100000b0                UabSystemOverLoadAmps
+ .bss.UabMajorFault
+                0x100000b4        0x1 ./src/uab_HELIX.o
+                0x100000b4                UabMajorFault
+ *fill*         0x100000b5        0x3 00
+ .bss.SolClearDelay.4805
+                0x100000b8        0x4 ./src/uab_HELIX.o
+ .bss.UabChargeStripDet
+                0x100000bc        0x1 ./src/uab_HELIX.o
+                0x100000bc                UabChargeStripDet
+ .bss.UabChargerState
+                0x100000bd        0x1 ./src/uab_HELIX.o
+                0x100000bd                UabChargerState
+ .bss.UabCommEnabled
+                0x100000be        0x1 ./src/uab_HELIX.o
+                0x100000be                UabCommEnabled
+ *fill*         0x100000bf        0x1 00
+ .bss.SaveChargeVolts
+                0x100000c0        0x4 ./src/uab_HELIX.o
+                0x100000c0                SaveChargeVolts
+ .bss.UabDebugMode
+                0x100000c4        0x4 ./src/uab_HELIX.o
+                0x100000c4                UabDebugMode
+ .bss.UabChargeInProgress
+                0x100000c8        0x1 ./src/uab_HELIX.o
+                0x100000c8                UabChargeInProgress
+ *fill*         0x100000c9        0x3 00
+ .bss.bat_volts.4855
+                0x100000cc        0x4 ./src/uab_HELIX.o
+ .bss.UabChargeStripTimeout
+                0x100000d0        0x4 ./src/uab_HELIX.o
+                0x100000d0                UabChargeStripTimeout
+ .bss.UabInstMode
+                0x100000d4        0x1 ./src/uab_HELIX.o
+                0x100000d4                UabInstMode
+ *fill*         0x100000d5        0x3 00
+ .bss.SaveBatteryVolts
+                0x100000d8        0x4 ./src/uab_HELIX.o
+                0x100000d8                SaveBatteryVolts
+ .bss.doWait.4859
+                0x100000dc        0x1 ./src/uab_HELIX.o
+ *fill*         0x100000dd        0x3 00
+ .bss.UabBatteryVolts
+                0x100000e0        0x4 ./src/uab_HELIX.o
+                0x100000e0                UabBatteryVolts
+ .bss.UabChargeDuration
+                0x100000e4        0x4 ./src/uab_HELIX.o
+                0x100000e4                UabChargeDuration
+ .bss.UabSystemOverLoadScaledAmps
+                0x100000e8        0x4 ./src/uab_HELIX.o
+                0x100000e8                UabSystemOverLoadScaledAmps
+ .bss.doBeepOn.4746
+                0x100000ec        0x1 ./src/uab_HELIX.o
+ *fill*         0x100000ed        0x3 00
+ .bss.UabMajorFaultCause
+                0x100000f0        0x4 ./src/uab_HELIX.o
+                0x100000f0                UabMajorFaultCause
+ .bss.bat_volts.4761
+                0x100000f4       0x14 ./src/uab_HELIX.o
+ .bss.UabChargePercent
+                0x10000108        0x1 ./src/uab_HELIX.o
+                0x10000108                UabChargePercent
+ *fill*         0x10000109        0x3 00
+ .bss.UabChargeStripStopCnt
+                0x1000010c        0x4 ./src/uab_HELIX.o
+                0x1000010c                UabChargeStripStopCnt
+ .bss.UabUpDownLeftRightSwitchState
+                0x10000110        0x1 ./src/uab_HELIX.o
+                0x10000110                UabUpDownLeftRightSwitchState
+ .bss.offchargeReported.4862
+                0x10000111        0x1 ./src/uab_HELIX.o
+ *fill*         0x10000112        0x2 00
+ .bss.UabFaults
+                0x10000114        0x4 ./src/uab_HELIX.o
+                0x10000114                UabFaults
+ .bss.bat_volts.4787
+                0x10000118       0x14 ./src/uab_HELIX.o
+ .bss.UabChargeTimer
+                0x1000012c        0x4 ./src/uab_HELIX.o
+                0x1000012c                UabChargeTimer
+ .bss.doBeepOff.4748
+                0x10000130        0x1 ./src/uab_HELIX.o
+ .bss.UabInitComplete
+                0x10000131        0x1 ./src/uab_HELIX.o
+                0x10000131                UabInitComplete
+ .bss.doBeepOnCntr.4747
+                0x10000132        0x1 ./src/uab_HELIX.o
+ .bss.ind.4788  0x10000133        0x1 ./src/uab_HELIX.o
+ .bss.UabMotorIsOff
+                0x10000134        0x1 ./src/uab_HELIX.o
+                0x10000134                UabMotorIsOff
+ *fill*         0x10000135        0x3 00
+ .bss.UabChargePeriod
+                0x10000138        0x4 ./src/uab_HELIX.o
+                0x10000138                UabChargePeriod
+ .bss.ind.4775  0x1000013c        0x1 ./src/uab_HELIX.o
+ .bss.UabTripDone
+                0x1000013d        0x1 ./src/uab_HELIX.o
+                0x1000013d                UabTripDone
+ .bss.UabLed    0x1000013e        0x1 ./src/uab_HELIX.o
+                0x1000013e                UabLed
+ *fill*         0x1000013f        0x1 00
+ .bss.stop_time.4890
+                0x10000140        0x2 ./src/uab_HELIX.o
+ .bss.prevUabRfLeftRightState.4980
+                0x10000142        0x1 ./src/uab_HELIX.o
+ .bss.UabMotionState
+                0x10000143        0x1 ./src/uab_HELIX.o
+                0x10000143                UabMotionState
+ .bss.UabMDriveState
+                0x10000144        0x1 ./src/uab_HELIX.o
+                0x10000144                UabMDriveState
+ *fill*         0x10000145        0x1 00
+ .bss.left_delay.4892
+                0x10000146        0x2 ./src/uab_HELIX.o
+ .bss.UabChargeLed
+                0x10000148        0x1 ./src/uab_HELIX.o
+                0x10000148                UabChargeLed
+ *fill*         0x10000149        0x3 00
+ .bss.charge_volts.4854
+                0x1000014c        0x4 ./src/uab_HELIX.o
+ .bss.UabChargeStripStopFlag
+                0x10000150        0x1 ./src/uab_HELIX.o
+                0x10000150                UabChargeStripStopFlag
+ .bss.local_bfr.3717
+                0x10000151       0x51 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_float.o)
+ *fill*         0x100001a2        0x2 00
+ .bss.faults_serviced
+                0x100001a4        0x4 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+                0x100001a4                faults_serviced
+ .bss.alarm_state
+                0x100001a8        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+                0x100001a8                alarm_state
+ .bss.previous_switch_state
+                0x100001a9        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+                0x100001a9                previous_switch_state
+ .bss.IrIntrDetected
+                0x100001aa        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+                0x100001aa                IrIntrDetected
+ .bss.UabAdjustTargetPwmDelay
+                0x100001ab        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(speed.o)
+                0x100001ab                UabAdjustTargetPwmDelay
+ .bss.UabTargetPwm
+                0x100001ac        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(speed.o)
+                0x100001ac                UabTargetPwm
+ .bss.UabAdjustPwmDelay
+                0x100001ad        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(speed.o)
+                0x100001ad                UabAdjustPwmDelay
+ *fill*         0x100001ae        0x2 00
+ .bss.UabCsscAmps
+                0x100001b0        0x4 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(speed.o)
+                0x100001b0                UabCsscAmps
+ .bss.TmpTargetPwm
+                0x100001b4        0x4 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(speed.o)
+                0x100001b4                TmpTargetPwm
+ .bss.XmitMsgRetryCnt
+                0x100001b8        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x100001b8                XmitMsgRetryCnt
+ *fill*         0x100001b9        0x3 00
+ .bss.UART1_Count
+                0x100001bc        0x4 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x100001bc                UART1_Count
+ .bss.NakCntr   0x100001c0        0x4 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x100001c0                NakCntr
+ .bss.XmitFifoBufNum
+                0x100001c4        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x100001c4                XmitFifoBufNum
+ .bss.XmitErrDataLen
+                0x100001c5        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x100001c5                XmitErrDataLen
+ *fill*         0x100001c6        0x2 00
+ .bss.AckCntr   0x100001c8        0x4 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x100001c8                AckCntr
+ .bss.NakRetryCnt
+                0x100001cc        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x100001cc                NakRetryCnt
+ *fill*         0x100001cd        0x3 00
+ .bss.OtherCntr
+                0x100001d0        0x4 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x100001d0                OtherCntr
+ .bss.XmitMsgNum
+                0x100001d4        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x100001d4                XmitMsgNum
+ .bss.XmitErrFifoOveflow
+                0x100001d5        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x100001d5                XmitErrFifoOveflow
+ *fill*         0x100001d6        0x2 00
+ .bss.UART0_Status
+                0x100001d8        0x4 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x100001d8                UART0_Status
+ .bss.NoCommCnt
+                0x100001dc        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x100001dc                NoCommCnt
+ .bss.WaitForAckTimeout
+                0x100001dd        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x100001dd                WaitForAckTimeout
+ *fill*         0x100001de        0x2 00
+ .bss.UART1_Status
+                0x100001e0        0x4 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x100001e0                UART1_Status
+ .bss.UART0_Count
+                0x100001e4        0x4 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x100001e4                UART0_Count
+ .bss.WaitForAck
+                0x100001e8        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x100001e8                WaitForAck
+ *fill*         0x100001e9        0x3 00
+ .bss.wdtCnt.4274
+                0x100001ec        0x4 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(utils.o)
+ *(COMMON)
+ COMMON         0x100001f0        0x8 ./startup/cr_startup_lpc12xx.o
+                0x100001f0                pDivRom_uidiv
+                0x100001f4                pDivRom_idiv
+ COMMON         0x100001f8       0x10 ./src/uab_HELIX.o
+                0x100001f8                UabUpDownState
+                0x100001f9                UabBegPwm
+                0x100001fa                UabPwmStep
+                0x100001fb                UabInstUpDownState
+                0x100001fc                UabRampInterval
+                0x100001fd                UabRfLeftRightState
+                0x10000200                UabSystemId
+                0x10000204                UabTrackOrientation
+                0x10000205                UabPwm
+                0x10000206                UabBrakeState
+                0x10000207                UabEndPwm
+ COMMON         0x10000208        0x7 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+                0x10000208                previous_faults
+                0x1000020c                alarm_counter
+                0x1000020e                alarm_active
+ *fill*         0x1000020f        0x1 00
+ COMMON         0x10000210       0x68 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+                0x10000210                IrPwp
+ COMMON         0x10000278        0x8 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(speed.o)
+                0x10000278                UabPwmScaleFactor
+                0x1000027c                UabNominalPwm
+ COMMON         0x10000280      0x7b8 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x10000280                UART1_XmitBuf
+                0x100002c0                UART1_Buffer
+                0x10000300                XmitFifoBuf
+                0x100009b8                UART0_XmitBuf
+                0x100009f8                UART0_Buffer
+                0x10000a38                . = ALIGN (0x4)
+                0x10000a38                _ebss = .
+                0x10000a38                PROVIDE (end, .)
+
+.noinit         0x10000a38        0x0 load address 0x00004f2c
+                0x10000a38                _noinit = .
+ *(.noinit*)
+                0x10000a38                . = ALIGN (0x4)
+                0x10000a38                _end_noinit = .
+                0x10000a38                PROVIDE (_pvHeapStart, .)
+                0x10001f00                PROVIDE (_vStackTop, (__top_RamLoc8 - 0x100))
+OUTPUT(UAB_HELIX.axf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x2d
+ .ARM.attributes
+                0x00000000       0x21 ./startup/aeabi_romdiv_patch.o
+ .ARM.attributes
+                0x00000021       0x31 ./startup/cr_startup_lpc12xx.o
+ .ARM.attributes
+                0x00000052       0x31 ./src/main_HELIX.o
+ .ARM.attributes
+                0x00000083       0x31 ./src/uab_HELIX.o
+ .ARM.attributes
+                0x000000b4       0x31 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\Release\libCMSISv2p00_LPC12xx.a(system_LPC122x.o)
+ .ARM.attributes
+                0x000000e5       0x31 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_float.o)
+ .ARM.attributes
+                0x00000116       0x31 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_support.o)
+ .ARM.attributes
+                0x00000147       0x31 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_utils.o)
+ .ARM.attributes
+                0x00000178       0x31 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .ARM.attributes
+                0x000001a9       0x31 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o)
+ .ARM.attributes
+                0x000001da       0x31 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o)
+ .ARM.attributes
+                0x0000020b       0x31 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+ .ARM.attributes
+                0x0000023c       0x31 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(speed.o)
+ .ARM.attributes
+                0x0000026d       0x31 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+ .ARM.attributes
+                0x0000029e       0x31 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(utils.o)
+ .ARM.attributes
+                0x000002cf       0x31 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(wdt.o)
+ .ARM.attributes
+                0x00000300       0x31 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memcpy.o)
+ .ARM.attributes
+                0x00000331       0x31 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memset.o)
+ .ARM.attributes
+                0x00000362       0x31 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+ .ARM.attributes
+                0x00000393       0x31 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+ .ARM.attributes
+                0x000003c4       0x31 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+ .ARM.attributes
+                0x000003f5       0x21 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(llong.o)
+ .ARM.attributes
+                0x00000416       0x21 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(memcpy.o)
+ .ARM.attributes
+                0x00000437       0x21 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(thumb1_switch_helpers.o)
+
+.comment        0x00000000       0xe0
+ .comment       0x00000000       0x70 ./startup/cr_startup_lpc12xx.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 ./src/main_HELIX.o
+ .comment       0x00000000       0x71 ./src/uab_HELIX.o
+ .comment       0x00000000       0x71 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\Release\libCMSISv2p00_LPC12xx.a(system_LPC122x.o)
+ .comment       0x00000000       0x71 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_float.o)
+ .comment       0x00000000       0x71 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_support.o)
+ .comment       0x00000000       0x71 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_utils.o)
+ .comment       0x00000000       0x71 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .comment       0x00000000       0x71 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o)
+ .comment       0x00000000       0x71 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o)
+ .comment       0x00000000       0x71 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+ .comment       0x00000000       0x71 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(speed.o)
+ .comment       0x00000000       0x71 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+ .comment       0x00000000       0x71 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(utils.o)
+ .comment       0x00000000       0x71 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(wdt.o)
+ .comment       0x00000000       0x71 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memcpy.o)
+ .comment       0x00000000       0x71 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memset.o)
+ .comment       0x00000000       0x71 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+ .comment       0x00000070       0x70 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+
+.debug_info     0x00000000     0x7f33
+ .debug_info    0x00000000      0x353 ./startup/cr_startup_lpc12xx.o
+ .debug_info    0x00000353      0xdeb ./src/main_HELIX.o
+ .debug_info    0x0000113e     0x1bb4 ./src/uab_HELIX.o
+ .debug_info    0x00002cf2      0x693 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\Release\libCMSISv2p00_LPC12xx.a(system_LPC122x.o)
+ .debug_info    0x00003385      0x369 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_float.o)
+ .debug_info    0x000036ee      0x2c0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_support.o)
+ .debug_info    0x000039ae      0x1c7 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_utils.o)
+ .debug_info    0x00003b75      0xa24 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .debug_info    0x00004599      0xc83 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o)
+ .debug_info    0x0000521c      0x36e C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o)
+ .debug_info    0x0000558a      0x69e C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+ .debug_info    0x00005c28      0x620 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(speed.o)
+ .debug_info    0x00006248     0x14bc C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+ .debug_info    0x00007704      0x1b8 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(utils.o)
+ .debug_info    0x000078bc      0x677 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(wdt.o)
+
+.debug_abbrev   0x00000000     0x184f
+ .debug_abbrev  0x00000000      0x162 ./startup/cr_startup_lpc12xx.o
+ .debug_abbrev  0x00000162      0x268 ./src/main_HELIX.o
+ .debug_abbrev  0x000003ca      0x320 ./src/uab_HELIX.o
+ .debug_abbrev  0x000006ea      0x137 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\Release\libCMSISv2p00_LPC12xx.a(system_LPC122x.o)
+ .debug_abbrev  0x00000821      0x1b1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_float.o)
+ .debug_abbrev  0x000009d2      0x11e C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_support.o)
+ .debug_abbrev  0x00000af0       0xb9 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_utils.o)
+ .debug_abbrev  0x00000ba9      0x2a5 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .debug_abbrev  0x00000e4e      0x152 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o)
+ .debug_abbrev  0x00000fa0      0x127 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o)
+ .debug_abbrev  0x000010c7      0x1a7 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+ .debug_abbrev  0x0000126e      0x16c C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(speed.o)
+ .debug_abbrev  0x000013da      0x279 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+ .debug_abbrev  0x00001653       0xf4 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(utils.o)
+ .debug_abbrev  0x00001747      0x108 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(wdt.o)
+
+.debug_loc      0x00000000     0x3627
+ .debug_loc     0x00000000      0x2a6 ./startup/cr_startup_lpc12xx.o
+ .debug_loc     0x000002a6      0x33a ./src/main_HELIX.o
+ .debug_loc     0x000005e0      0xff2 ./src/uab_HELIX.o
+ .debug_loc     0x000015d2       0xa3 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\Release\libCMSISv2p00_LPC12xx.a(system_LPC122x.o)
+ .debug_loc     0x00001675      0x668 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_float.o)
+ .debug_loc     0x00001cdd      0x2de C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_support.o)
+ .debug_loc     0x00001fbb      0x23e C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_utils.o)
+ .debug_loc     0x000021f9      0x5aa C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .debug_loc     0x000027a3      0x308 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o)
+ .debug_loc     0x00002aab      0x21d C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o)
+ .debug_loc     0x00002cc8      0x29d C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+ .debug_loc     0x00002f65      0x12b C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(speed.o)
+ .debug_loc     0x00003090      0x407 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+ .debug_loc     0x00003497      0x110 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(utils.o)
+ .debug_loc     0x000035a7       0x80 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(wdt.o)
+
+.debug_aranges  0x00000000      0x538
+ .debug_aranges
+                0x00000000       0x60 ./startup/cr_startup_lpc12xx.o
+ .debug_aranges
+                0x00000060       0x38 ./src/main_HELIX.o
+ .debug_aranges
+                0x00000098      0x178 ./src/uab_HELIX.o
+ .debug_aranges
+                0x00000210       0x30 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\Release\libCMSISv2p00_LPC12xx.a(system_LPC122x.o)
+ .debug_aranges
+                0x00000240       0x38 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_float.o)
+ .debug_aranges
+                0x00000278       0x38 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_support.o)
+ .debug_aranges
+                0x000002b0       0x48 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_utils.o)
+ .debug_aranges
+                0x000002f8       0x80 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .debug_aranges
+                0x00000378       0x48 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o)
+ .debug_aranges
+                0x000003c0       0x48 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o)
+ .debug_aranges
+                0x00000408       0x38 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+ .debug_aranges
+                0x00000440       0x38 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(speed.o)
+ .debug_aranges
+                0x00000478       0x60 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+ .debug_aranges
+                0x000004d8       0x28 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(utils.o)
+ .debug_aranges
+                0x00000500       0x38 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(wdt.o)
+
+.debug_ranges   0x00000000      0x478
+ .debug_ranges  0x00000000       0x50 ./startup/cr_startup_lpc12xx.o
+ .debug_ranges  0x00000050       0x40 ./src/main_HELIX.o
+ .debug_ranges  0x00000090      0x168 ./src/uab_HELIX.o
+ .debug_ranges  0x000001f8       0x20 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\Release\libCMSISv2p00_LPC12xx.a(system_LPC122x.o)
+ .debug_ranges  0x00000218       0x28 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_float.o)
+ .debug_ranges  0x00000240       0x28 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_support.o)
+ .debug_ranges  0x00000268       0x38 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_utils.o)
+ .debug_ranges  0x000002a0       0x88 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .debug_ranges  0x00000328       0x38 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o)
+ .debug_ranges  0x00000360       0x38 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o)
+ .debug_ranges  0x00000398       0x28 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+ .debug_ranges  0x000003c0       0x28 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(speed.o)
+ .debug_ranges  0x000003e8       0x50 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+ .debug_ranges  0x00000438       0x18 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(utils.o)
+ .debug_ranges  0x00000450       0x28 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(wdt.o)
+
+.debug_line     0x00000000     0x42a3
+ .debug_line    0x00000000       0xb5 ./startup/cr_startup_lpc12xx.o
+ .debug_line    0x000000b5      0x380 ./src/main_HELIX.o
+ .debug_line    0x00000435      0xb27 ./src/uab_HELIX.o
+ .debug_line    0x00000f5c      0x1be C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\Release\libCMSISv2p00_LPC12xx.a(system_LPC122x.o)
+ .debug_line    0x0000111a      0x4c0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_float.o)
+ .debug_line    0x000015da      0x45e C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_support.o)
+ .debug_line    0x00001a38      0x12a C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_utils.o)
+ .debug_line    0x00001b62      0x5e9 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .debug_line    0x0000214b      0x486 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o)
+ .debug_line    0x000025d1      0x4cf C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o)
+ .debug_line    0x00002aa0      0x517 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+ .debug_line    0x00002fb7      0x43b C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(speed.o)
+ .debug_line    0x000033f2      0x682 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+ .debug_line    0x00003a74      0x41f C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(utils.o)
+ .debug_line    0x00003e93      0x410 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(wdt.o)
+
+.debug_str      0x00000000     0x2306
+ .debug_str     0x00000000      0x26e ./startup/cr_startup_lpc12xx.o
+                                0x296 (size before relaxing)
+ .debug_str     0x0000026e      0x737 ./src/main_HELIX.o
+                                0x8af (size before relaxing)
+ .debug_str     0x000009a5      0xb0e ./src/uab_HELIX.o
+                                0xd62 (size before relaxing)
+ .debug_str     0x000014b3       0xc7 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\Release\libCMSISv2p00_LPC12xx.a(system_LPC122x.o)
+                                0x466 (size before relaxing)
+ .debug_str     0x0000157a      0x12e C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_float.o)
+                                0x233 (size before relaxing)
+ .debug_str     0x000016a8       0xad C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_support.o)
+                                0x1fa (size before relaxing)
+ .debug_str     0x00001755       0x6c C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_utils.o)
+                                0x12a (size before relaxing)
+ .debug_str     0x000017c1      0x543 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+                                0x813 (size before relaxing)
+ .debug_str     0x00001d04       0xd6 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o)
+                                0x696 (size before relaxing)
+ .debug_str     0x00001dda       0xf6 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o)
+                                0x235 (size before relaxing)
+ .debug_str     0x00001ed0       0xd2 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+                                0x48f (size before relaxing)
+ .debug_str     0x00001fa2       0x99 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(speed.o)
+                                0x32f (size before relaxing)
+ .debug_str     0x0000203b      0x249 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                                0xa69 (size before relaxing)
+ .debug_str     0x00002284       0x50 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(utils.o)
+                                0x18d (size before relaxing)
+ .debug_str     0x000022d4       0x32 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(wdt.o)
+                                0x451 (size before relaxing)
+
+.debug_frame    0x00000000      0xd08
+ .debug_frame   0x00000000       0xec ./startup/cr_startup_lpc12xx.o
+ .debug_frame   0x000000ec       0x78 ./src/main_HELIX.o
+ .debug_frame   0x00000164      0x444 ./src/uab_HELIX.o
+ .debug_frame   0x000005a8       0x54 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\Release\libCMSISv2p00_LPC12xx.a(system_LPC122x.o)
+ .debug_frame   0x000005fc       0x90 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_float.o)
+ .debug_frame   0x0000068c       0x7c C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_support.o)
+ .debug_frame   0x00000708       0xac C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_utils.o)
+ .debug_frame   0x000007b4      0x148 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .debug_frame   0x000008fc       0xac C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o)
+ .debug_frame   0x000009a8       0xa8 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o)
+ .debug_frame   0x00000a50       0x84 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+ .debug_frame   0x00000ad4       0x68 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(speed.o)
+ .debug_frame   0x00000b3c      0x10c C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+ .debug_frame   0x00000c48       0x4c C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(utils.o)
+ .debug_frame   0x00000c94       0x74 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(wdt.o)
+
+.debug_macinfo  0x00000000    0x41e5d
+ .debug_macinfo
+                0x00000000     0x3dcc C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_float.o)
+ .debug_macinfo
+                0x00003dcc     0x3de0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_printf_support.o)
+ .debug_macinfo
+                0x00007bac     0x2288 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a(small_utils.o)
+ .debug_macinfo
+                0x00009e34     0x7636 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .debug_macinfo
+                0x0001146a     0x756e C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o)
+ .debug_macinfo
+                0x000189d8     0x76da C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o)
+ .debug_macinfo
+                0x000200b2     0x7532 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+ .debug_macinfo
+                0x000275e4     0x7590 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(speed.o)
+ .debug_macinfo
+                0x0002eb74     0x76c0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+ .debug_macinfo
+                0x00036234     0x5e54 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(utils.o)
+ .debug_macinfo
+                0x0003c088     0x5dd5 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(wdt.o)

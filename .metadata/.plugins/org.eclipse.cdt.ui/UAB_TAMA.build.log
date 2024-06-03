@@ -1,0 +1,38 @@
+18:03:16 **** Build of configuration Release for project UAB_TAMA ****
+make all 
+Building file: ../startup/aeabi_romdiv_patch.s
+Invoking: MCU Assembler
+arm-none-eabi-gcc -c -x assembler-with-cpp -D__REDLIB__ -DNDEBUG -D__CODE_RED -D__USE_ROMDIVIDE -mcpu=cortex-m0 -mthumb -o "startup/aeabi_romdiv_patch.o" "../startup/aeabi_romdiv_patch.s"
+Finished building: ../startup/aeabi_romdiv_patch.s
+ 
+Building file: ../startup/cr_startup_lpc12xx.c
+Invoking: MCU C Compiler
+arm-none-eabi-gcc -D__REDLIB__ -DNDEBUG -D__CODE_RED -D__USE_CMSIS=CMSISv2p00_LPC12xx -D__DISABLE_WATCHDOG -D__USE_ROMDIVIDE -I"C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\inc" -I"C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\inc" -I"C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\inc" -I"C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_TAMA\inc" -Os -g -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -mcpu=cortex-m0 -mthumb -MMD -MP -MF"startup/cr_startup_lpc12xx.d" -MT"startup/cr_startup_lpc12xx.d" -o "startup/cr_startup_lpc12xx.o" "../startup/cr_startup_lpc12xx.c"
+Finished building: ../startup/cr_startup_lpc12xx.c
+ 
+Building file: ../src/main_TAMA.c
+Invoking: MCU C Compiler
+arm-none-eabi-gcc -D__REDLIB__ -DNDEBUG -D__CODE_RED -D__USE_CMSIS=CMSISv2p00_LPC12xx -D__DISABLE_WATCHDOG -D__USE_ROMDIVIDE -I"C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\inc" -I"C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\inc" -I"C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\inc" -I"C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_TAMA\inc" -Os -g -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -mcpu=cortex-m0 -mthumb -MMD -MP -MF"src/main_TAMA.d" -MT"src/main_TAMA.d" -o "src/main_TAMA.o" "../src/main_TAMA.c"
+Finished building: ../src/main_TAMA.c
+ 
+Building file: ../src/uab_TAMA.c
+Invoking: MCU C Compiler
+arm-none-eabi-gcc -D__REDLIB__ -DNDEBUG -D__CODE_RED -D__USE_CMSIS=CMSISv2p00_LPC12xx -D__DISABLE_WATCHDOG -D__USE_ROMDIVIDE -I"C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\inc" -I"C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\inc" -I"C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\inc" -I"C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_TAMA\inc" -Os -g -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -mcpu=cortex-m0 -mthumb -MMD -MP -MF"src/uab_TAMA.d" -MT"src/uab_TAMA.d" -o "src/uab_TAMA.o" "../src/uab_TAMA.c"
+../src/uab_TAMA.c: In function 'uabFaultSet':
+../src/uab_TAMA.c:206:13: warning: dereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+../src/uab_TAMA.c:216:17: warning: dereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+../src/uab_TAMA.c: In function 'uabVoltsCurrSenseDisplay':
+../src/uab_TAMA.c:1343:5: warning: dereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+../src/uab_TAMA.c:1348:5: warning: dereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+../src/uab_TAMA.c:1353:5: warning: dereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+Finished building: ../src/uab_TAMA.c
+ 
+Building target: UAB_TAMA.axf
+Invoking: MCU Linker
+arm-none-eabi-gcc -nostdlib -L"C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib" -L"C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib" -Xlinker -Map="UAB_TAMA.map" -Xlinker --gc-sections -Xlinker --allow-multiple-definition -mcpu=cortex-m0 -mthumb -T "UAB_TAMA_Release.ld" -o "UAB_TAMA.axf"  ./startup/aeabi_romdiv_patch.o ./startup/cr_startup_lpc12xx.o  ./src/main_TAMA.o ./src/uab_TAMA.o   -lCMSISv2p00_LPC12xx -llib_small_printf_m0 -lUAB_COMMON_LIB
+c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/bin/ld.exe: cannot find -lCMSISv2p00_LPC12xx
+collect2: ld returned 1 exit status
+make: *** [UAB_TAMA.axf] Error 1
+
+18:03:19 Build Finished (took 3s.244ms)
+

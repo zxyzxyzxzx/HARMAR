@@ -1,0 +1,22 @@
+History of updates to CMSISv2p00_LPC12xx
+========================================
+
+29 March 2011
+-------------
+Updated with latest 'LPC122x.h','system_LPC122x.h' and
+'system_LPC122x.c' files from NXP (all dated 2011-03-23).
+
+7 March 2011
+------------
+Updated with latest files from NXP, with 'LPC12xx.h' being renamed 
+'LPC122x.h', 'system_LPC12xx.h' being renamed 'system_LPC122x.h'
+and 'system_LPC12xx.c' being renamed 'system_LPC122x.c'.
+
+25 January 2011
+---------------
+Initial version, using ARM Cortex-M0 CMSIS files as supplied in 
+ARM's CMSIS 2.0 December 2010 release, together with LPC12xx 
+specific files from NXP. 
+
+
+Note files are built -Os for both Debug and Release

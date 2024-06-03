@@ -1,0 +1,6 @@
+00:41:36 **** Incremental Build of configuration Release for project UAB_HELIX ****
+make all 
+make: Nothing to be done for `all'.
+
+00:41:36 Build Finished (took 320ms)
+

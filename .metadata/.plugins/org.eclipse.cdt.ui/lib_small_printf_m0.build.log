@@ -1,0 +1,6 @@
+00:41:23 **** Incremental Build of configuration Lib for project lib_small_printf_m0 ****
+make all 
+make: Nothing to be done for `all'.
+
+00:41:23 Build Finished (took 369ms)
+

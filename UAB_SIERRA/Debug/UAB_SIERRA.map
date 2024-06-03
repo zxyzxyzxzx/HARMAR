@@ -1,0 +1,1315 @@
+Archive member included because of file (symbol)
+
+C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\Debug\libCMSISv2p00_LPC12xx.a(system_LPC122x.o)
+                              ./startup/cr_startup_lpc12xx.o (SystemInit)
+C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+                              ./src/main_SIERRA.o (alarms_light_led)
+C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o)
+                              ./src/uab_SIERRA.o (uabVoltsConvert)
+C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o)
+                              ./src/main_SIERRA.o (uabInfoPageInit)
+C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+                              ./src/main_SIERRA.o (uabIrInit)
+C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                              ./src/main_SIERRA.o (UART0_Buffer)
+C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(utils.o)
+                              ./src/main_SIERRA.o (delayUsec)
+C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(wdt.o)
+                              ./src/main_SIERRA.o (wdtFeed)
+c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memcpy.o)
+                              C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o) (memcpy)
+c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memset.o)
+                              ./src/uab_SIERRA.o (memset)
+c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+                              ./startup/cr_startup_lpc12xx.o (__main)
+c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+                              ./src/uab_SIERRA.o (__aeabi_ddiv)
+c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+                              C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o) (__aeabi_fmul)
+c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(llong.o)
+                              c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o) (__aeabi_lmul)
+c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(memcpy.o)
+                              c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memcpy.o) (__aeabi_memcpy)
+c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(thumb1_switch_helpers.o)
+                              C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o) (__gnu_thumb1_case_uqi)
+
+Allocating common symbols
+Common symbol       size              file
+
+UabUpDownState      0x1               ./src/uab_SIERRA.o
+UART1_XmitBuf       0x40              C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+UabBegPwm           0x1               ./src/uab_SIERRA.o
+UabPwmStep          0x1               ./src/uab_SIERRA.o
+UabInstUpDownState  0x1               ./src/uab_SIERRA.o
+UabRampInterval     0x1               ./src/uab_SIERRA.o
+IrPwp               0x68              C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+UabSystemId         0x4               ./src/uab_SIERRA.o
+UART1_Buffer        0x40              C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+UabIrUpDownState    0x1               ./src/uab_SIERRA.o
+UabPwm              0x1               ./src/uab_SIERRA.o
+UabSierraPlatformMounting
+                    0x1               ./src/uab_SIERRA.o
+pDivRom_uidiv       0x4               ./startup/cr_startup_lpc12xx.o
+previous_faults     0x4               C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+prevPlatformPosition
+                    0x1               ./src/sierra.o
+alarm_counter       0x2               C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+XmitFifoBuf         0x6b8             C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+UART0_XmitBuf       0x40              C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+pDivRom_idiv        0x4               ./startup/cr_startup_lpc12xx.o
+UART0_Buffer        0x40              C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+alarm_active        0x1               C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+UabBrakeState       0x1               ./src/uab_SIERRA.o
+UabEndPwm           0x1               ./src/uab_SIERRA.o
+UabSierraPlatformPosition
+                    0x1               ./src/uab_SIERRA.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 ./startup/aeabi_romdiv_patch.o
+ .data          0x00000000        0x0 ./startup/aeabi_romdiv_patch.o
+ .bss           0x00000000        0x0 ./startup/aeabi_romdiv_patch.o
+ .text          0x00000000        0x0 ./startup/cr_startup_lpc12xx.o
+ .data          0x00000000        0x0 ./startup/cr_startup_lpc12xx.o
+ .bss           0x00000000        0x0 ./startup/cr_startup_lpc12xx.o
+ .text          0x00000000        0x0 ./src/main_SIERRA.o
+ .data          0x00000000        0x0 ./src/main_SIERRA.o
+ .bss           0x00000000        0x0 ./src/main_SIERRA.o
+ .text          0x00000000        0x0 ./src/sierra.o
+ .data          0x00000000        0x0 ./src/sierra.o
+ .bss           0x00000000        0x0 ./src/sierra.o
+ .text.uabRampBoardRegsGet
+                0x00000000       0xec ./src/sierra.o
+ .text          0x00000000        0x0 ./src/uab_SIERRA.o
+ .data          0x00000000        0x0 ./src/uab_SIERRA.o
+ .bss           0x00000000        0x0 ./src/uab_SIERRA.o
+ .bss.UabDebugMode
+                0x00000000        0x4 ./src/uab_SIERRA.o
+ .text.uabMDriveDisable
+                0x00000000       0x24 ./src/uab_SIERRA.o
+ .text.uabChargerInitDisable
+                0x00000000       0x24 ./src/uab_SIERRA.o
+ .text.uabMotorVoltsDisplay
+                0x00000000        0x8 ./src/uab_SIERRA.o
+ .text          0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\Debug\libCMSISv2p00_LPC12xx.a(system_LPC122x.o)
+ .bss           0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\Debug\libCMSISv2p00_LPC12xx.a(system_LPC122x.o)
+ .text.SystemCoreClockUpdate
+                0x00000000       0xa0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\Debug\libCMSISv2p00_LPC12xx.a(system_LPC122x.o)
+ .text.WWDT_Disable
+                0x00000000       0x30 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\Debug\libCMSISv2p00_LPC12xx.a(system_LPC122x.o)
+ .rodata        0x00000000       0x40 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\Debug\libCMSISv2p00_LPC12xx.a(system_LPC122x.o)
+ .text          0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .data          0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .bss           0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .bss.previous_motion_state
+                0x00000000        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .text          0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o)
+ .data          0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o)
+ .bss           0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o)
+ .text          0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o)
+ .data          0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o)
+ .bss           0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o)
+ .text          0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+ .data          0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+ .bss           0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+ .text          0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+ .data          0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+ .bss           0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+ .text.putchar  0x00000000       0x18 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+ .text.aftof    0x00000000       0xa0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+ .bss.XmitSendDelay
+                0x00000000        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+ .text          0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(utils.o)
+ .data          0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(utils.o)
+ .bss           0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(utils.o)
+ .text          0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(wdt.o)
+ .data          0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(wdt.o)
+ .bss           0x00000000        0x0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(wdt.o)
+ .text.wdtDisable
+                0x00000000       0x18 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(wdt.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memcpy.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memcpy.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memset.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memset.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memset.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dmul
+                0x00000000      0x180 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_drsub
+                0x00000000       0x28 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dneg
+                0x00000000       0x10 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_d2iz
+                0x00000000       0x4c c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_d2uiz
+                0x00000000       0x38 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_d2lz
+                0x00000000       0x78 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_d2ulz
+                0x00000000       0x58 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+ .text.__bhs_ui2d
+                0x00000000       0x5e c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+ .text.__bhs_ul2d
+                0x00000000       0xb4 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_i2d
+                0x00000000       0x16 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_ui2d
+                0x00000000        0xc c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_l2d
+                0x00000000       0x20 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_ul2d
+                0x00000000        0xc c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dcmpeq
+                0x00000000       0x40 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dcmpgt
+                0x00000000       0x64 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dcmple
+                0x00000000       0x64 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dcmpun
+                0x00000000       0x1c c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_cdcmple
+                0x00000000       0x2e c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_cdrcmple
+                0x00000000       0x14 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fdiv
+                0x00000000       0xe4 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_frsub
+                0x00000000       0x10 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fneg
+                0x00000000        0x8 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_f2iz
+                0x00000000       0x38 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_f2uiz
+                0x00000000       0x26 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_f2lz
+                0x00000000       0x64 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_f2ulz
+                0x00000000       0x3e c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__bhs_ul2f
+                0x00000000       0x84 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_i2f
+                0x00000000       0x16 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_l2f
+                0x00000000       0x20 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_ul2f
+                0x00000000        0xc c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fcmpeq
+                0x00000000       0x22 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fcmpge
+                0x00000000       0x44 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fcmpun
+                0x00000000       0x18 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_cfcmple
+                0x00000000       0x24 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_cfrcmple
+                0x00000000        0xe c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(llong.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(llong.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(llong.o)
+ .text.__aeabi_llong_llsl
+                0x00000000       0x18 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(llong.o)
+ .text.__aeabi_llong_llsr
+                0x00000000       0x18 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(llong.o)
+ .text.__aeabi_llong_lasr
+                0x00000000       0x18 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(llong.o)
+ .text.__aeabi_llong_lcmp
+                0x00000000       0x14 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(llong.o)
+ .text.__aeabi_llong_ulcmp
+                0x00000000       0x10 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(llong.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(memcpy.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memmove
+                0x00000000       0x1c c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memclr
+                0x00000000        0x6 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memset
+                0x00000000        0x8 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(memcpy.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(thumb1_switch_helpers.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(thumb1_switch_helpers.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(thumb1_switch_helpers.o)
+ .text.__gnu_thumb1_case_sqi
+                0x00000000       0x10 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(thumb1_switch_helpers.o)
+ .text.__gnu_thumb1_case_shi
+                0x00000000       0x10 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(thumb1_switch_helpers.o)
+ .text.__gnu_thumb1_case_si
+                0x00000000       0x18 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(thumb1_switch_helpers.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash64         0x00000000         0x00010000         xr
+RamLoc8          0x10000000         0x00002000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./startup/aeabi_romdiv_patch.o
+LOAD ./startup/cr_startup_lpc12xx.o
+LOAD ./src/main_SIERRA.o
+LOAD ./src/sierra.o
+LOAD ./src/uab_SIERRA.o
+LOAD C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\Debug\libCMSISv2p00_LPC12xx.a
+LOAD C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\lib_small_printf_m0\Lib\liblib_small_printf_m0.a
+LOAD C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a
+START GROUP
+LOAD c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a
+LOAD c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a
+END GROUP
+                0x00010000                __top_MFlash64 = 0x10000
+                0x10002000                __top_RamLoc8 = 0x10002000
+
+.text           0x00000000     0x6b5c
+ FILL mask 0xff
+                0x00000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xbc ./startup/cr_startup_lpc12xx.o
+                0x00000000                g_pfnVectors
+                0x000000bc                . = ALIGN (0x4)
+                0x000000bc                __section_table_start = .
+                0x000000bc                __data_section_table = .
+                0x000000bc        0x4 LONG 0x6b5c LOADADDR (.data)
+                0x000000c0        0x4 LONG 0x10000000 ADDR (.data)
+                0x000000c4        0x4 LONG 0x30 SIZEOF (.data)
+                0x000000c8                __data_section_table_end = .
+                0x000000c8                __bss_section_table = .
+                0x000000c8        0x4 LONG 0x10000030 ADDR (.bss)
+                0x000000cc        0x4 LONG 0x99c SIZEOF (.bss)
+                0x000000d0                __bss_section_table_end = .
+                0x000000d0                __section_table_end = .
+ *(.after_vectors*)
+ .after_vectors
+                0x000000d0      0x17c ./startup/cr_startup_lpc12xx.o
+                0x000000d0                data_init
+                0x00000114                bss_init
+                0x00000148                ResetISR
+                0x0000021c                NMI_Handler
+                0x00000224                HardFault_Handler
+                0x0000022c                SVC_Handler
+                0x00000234                PendSV_Handler
+                0x00000244                SSP_IRQHandler
+                0x00000244                RTC_IRQHandler
+                0x00000244                IntDefaultHandler
+                0x00000244                TIMER32_1_IRQHandler
+                0x00000244                TIMER32_0_IRQHandler
+                0x00000244                ADC_IRQHandler
+                0x00000244                PIOINT2_IRQHandler
+                0x00000244                BOD_IRQHandler
+                0x00000244                WAKEUP_IRQHandler
+                0x00000244                PIOINT0_IRQHandler
+                0x00000244                I2C_IRQHandler
+                0x00000244                WDT_IRQHandler
+                0x00000244                TIMER16_1_IRQHandler
+                0x00000244                COMP_IRQHandler
+                0x00000244                TIMER16_0_IRQHandler
+                0x00000244                DMA_IRQHandler
+                0x000002fc                . = 0x2fc
+ *fill*         0x0000024c       0xb0 ff
+                0x000002fc                PROVIDE (__CRP_WORD_START__, .)
+ *(.crp)
+ .crp           0x000002fc        0x4 ./src/main_SIERRA.o
+                0x000002fc                CRP_WORD
+                0x00000300                PROVIDE (__CRP_WORD_END__, .)
+                0x00000001                ASSERT (! ((__CRP_WORD_START__ == __CRP_WORD_END__)), Linker CRP Enabled, but no CRP_WORD provided within application)
+ *(.text*)
+ .text.__aeabi_idiv
+                0x00000300       0x10 ./startup/aeabi_romdiv_patch.o
+                0x00000300                __aeabi_idivmod
+                0x00000300                __aeabi_idiv
+ .text.__aeabi_uidiv
+                0x00000310       0x10 ./startup/aeabi_romdiv_patch.o
+                0x00000310                __aeabi_uidivmod
+                0x00000310                __aeabi_uidiv
+ .text.NVIC_EnableIRQ
+                0x00000320       0x2c ./src/main_SIERRA.o
+ .text.NVIC_SetPriority
+                0x0000034c       0xe0 ./src/main_SIERRA.o
+ .text.SysTick_Config
+                0x0000042c       0x4c ./src/main_SIERRA.o
+ .text.SysTick_Handler
+                0x00000478       0x2c ./src/main_SIERRA.o
+                0x00000478                SysTick_Handler
+ .text.uabCommInit
+                0x000004a4      0x1b0 ./src/main_SIERRA.o
+                0x000004a4                uabCommInit
+ .text.main     0x00000654      0x5a0 ./src/main_SIERRA.o
+                0x00000654                main
+ .text.uabRampBoardPioGet
+                0x00000bf4       0xc4 ./src/sierra.o
+                0x00000bf4                uabRampBoardPioGet
+ .text.uabRampBoardPioSet
+                0x00000cb8       0x40 ./src/sierra.o
+                0x00000cb8                uabRampBoardPioSet
+ .text.uabLeftsideRampRaise
+                0x00000cf8      0x3c0 ./src/sierra.o
+                0x00000cf8                uabLeftsideRampRaise
+ .text.uabLeftsideRampLower
+                0x000010b8      0x1f8 ./src/sierra.o
+                0x000010b8                uabLeftsideRampLower
+ .text.uabRightsideRampRaise
+                0x000012b0      0x3b0 ./src/sierra.o
+                0x000012b0                uabRightsideRampRaise
+ .text.uabRightsideRampLower
+                0x00001660      0x1ec ./src/sierra.o
+                0x00001660                uabRightsideRampLower
+ .text.uabSierraRampBoardInit
+                0x0000184c      0x12c ./src/sierra.o
+                0x0000184c                uabSierraRampBoardInit
+ .text.uabSierraAdjustRamps
+                0x00001978      0x100 ./src/sierra.o
+                0x00001978                uabSierraAdjustRamps
+ .text.uabSierraPlatformPositionInit
+                0x00001a78       0x7c ./src/sierra.o
+                0x00001a78                uabSierraPlatformPositionInit
+ .text.uabSierraPlatformCheck
+                0x00001af4      0x1a4 ./src/sierra.o
+                0x00001af4                uabSierraPlatformCheck
+ .text.uabEvent
+                0x00001c98      0x14c ./src/uab_SIERRA.o
+                0x00001c98                uabEvent
+ .text.uabInstModeCheck
+                0x00001de4       0x88 ./src/uab_SIERRA.o
+                0x00001de4                uabInstModeCheck
+ .text.uabFaultSet
+                0x00001e6c      0x108 ./src/uab_SIERRA.o
+                0x00001e6c                uabFaultSet
+ .text.uabFaultClr
+                0x00001f74       0x78 ./src/uab_SIERRA.o
+                0x00001f74                uabFaultClr
+ .text.uabMajorFaultChargeDisplay
+                0x00001fec       0xcc ./src/uab_SIERRA.o
+                0x00001fec                uabMajorFaultChargeDisplay
+ .text.uabMajorFaultVoltsDisplay
+                0x000020b8       0xec ./src/uab_SIERRA.o
+                0x000020b8                uabMajorFaultVoltsDisplay
+ .text.uabMajorFaultHandler
+                0x000021a4      0x228 ./src/uab_SIERRA.o
+                0x000021a4                uabMajorFaultHandler
+ .text.uab12vCheck
+                0x000023cc       0x6c ./src/uab_SIERRA.o
+                0x000023cc                uab12vCheck
+ .text.uabLowBatteryCheck
+                0x00002438      0x16c ./src/uab_SIERRA.o
+                0x00002438                uabLowBatteryCheck
+ .text.uabVeryLowBatteryCheck
+                0x000025a4      0x174 ./src/uab_SIERRA.o
+                0x000025a4                uabVeryLowBatteryCheck
+ .text.uabSuperLowBatteryCheck
+                0x00002718      0x178 ./src/uab_SIERRA.o
+                0x00002718                uabSuperLowBatteryCheck
+ .text.uabSystemOverloadCheck
+                0x00002890      0x190 ./src/uab_SIERRA.o
+                0x00002890                uabSystemOverloadCheck
+ .text.uabRunawayCheck
+                0x00002a20       0x64 ./src/uab_SIERRA.o
+                0x00002a20                uabRunawayCheck
+ .text.uabDiagLed
+                0x00002a84       0xf4 ./src/uab_SIERRA.o
+                0x00002a84                uabDiagLed
+ .text.uabCpuLedOn
+                0x00002b78       0x1c ./src/uab_SIERRA.o
+                0x00002b78                uabCpuLedOn
+ .text.uabCpuLedOff
+                0x00002b94       0x20 ./src/uab_SIERRA.o
+                0x00002b94                uabCpuLedOff
+ .text.uabMDriveEnable
+                0x00002bb4       0x24 ./src/uab_SIERRA.o
+                0x00002bb4                uabMDriveEnable
+ .text.uabChargerDisable
+                0x00002bd8       0x24 ./src/uab_SIERRA.o
+                0x00002bd8                uabChargerDisable
+ .text.uabChargerEnable
+                0x00002bfc       0x24 ./src/uab_SIERRA.o
+                0x00002bfc                uabChargerEnable
+ .text.uabChargerInitEnable
+                0x00002c20       0x24 ./src/uab_SIERRA.o
+                0x00002c20                uabChargerInitEnable
+ *fill*         0x00002c44        0x4 00
+ .text.uabChargeCheck
+                0x00002c48      0x4f0 ./src/uab_SIERRA.o
+                0x00002c48                uabChargeCheck
+ .text.uabVoltsCurrSenseDisplay
+                0x00003138      0x10c ./src/uab_SIERRA.o
+                0x00003138                uabVoltsCurrSenseDisplay
+ .text.uabInstUpDownSwitchStateGet
+                0x00003244       0x6c ./src/uab_SIERRA.o
+                0x00003244                uabInstUpDownSwitchStateGet
+ .text.uabUpDownLeftRightSwitchStateGet
+                0x000032b0      0x1f0 ./src/uab_SIERRA.o
+                0x000032b0                uabUpDownLeftRightSwitchStateGet
+ .text.uabBrakeOff
+                0x000034a0       0x3c ./src/uab_SIERRA.o
+                0x000034a0                uabBrakeOff
+ .text.uabBrakeOn
+                0x000034dc       0x3c ./src/uab_SIERRA.o
+                0x000034dc                uabBrakeOn
+ .text.uabMotorOff
+                0x00003518       0x7c ./src/uab_SIERRA.o
+                0x00003518                uabMotorOff
+ .text.uabMotorOn
+                0x00003594      0x14c ./src/uab_SIERRA.o
+                0x00003594                uabMotorOn
+ .text.uabPwmInit
+                0x000036e0       0x80 ./src/uab_SIERRA.o
+                0x000036e0                uabPwmInit
+ .text.uabPwmChange
+                0x00003760       0x38 ./src/uab_SIERRA.o
+                0x00003760                uabPwmChange
+ .text.uabPioGet
+                0x00003798       0x8c ./src/uab_SIERRA.o
+                0x00003798                uabPioGet
+ .text.uabFaultsGet
+                0x00003824      0x244 ./src/uab_SIERRA.o
+                0x00003824                uabFaultsGet
+ .text.uabCheckStopDownRight
+                0x00003a68       0x20 ./src/uab_SIERRA.o
+                0x00003a68                uabCheckStopDownRight
+ .text.uabCheckStopUpLeft
+                0x00003a88       0x20 ./src/uab_SIERRA.o
+                0x00003a88                uabCheckStopUpLeft
+ .text.uabCheckLimit
+                0x00003aa8       0x74 ./src/uab_SIERRA.o
+                0x00003aa8                uabCheckLimit
+ .text.uabCheckTopBottom
+                0x00003b1c       0x44 ./src/uab_SIERRA.o
+                0x00003b1c                uabCheckTopBottom
+ .text.uabTopStop
+                0x00003b60       0x5c ./src/uab_SIERRA.o
+                0x00003b60                uabTopStop
+ .text.uabBottomStop
+                0x00003bbc       0x5c ./src/uab_SIERRA.o
+                0x00003bbc                uabBottomStop
+ .text.uabMotionSet
+                0x00003c18      0xa20 ./src/uab_SIERRA.o
+                0x00003c18                uabMotionSet
+ .text.uabCheckSwitch
+                0x00004638      0x350 ./src/uab_SIERRA.o
+                0x00004638                uabCheckSwitch
+ .text.uabInit  0x00004988      0x1bc ./src/uab_SIERRA.o
+                0x00004988                uabInit
+ .text.SystemInit
+                0x00004b44       0xbc C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\Debug\libCMSISv2p00_LPC12xx.a(system_LPC122x.o)
+                0x00004b44                SystemInit
+ .text.alarms_faults_serviced
+                0x00004c00       0x14 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .text.alarms_manage_fault_service
+                0x00004c14       0x78 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .text.alarms_reset_alarm
+                0x00004c8c       0x18 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .text.alarms_major_fault_service
+                0x00004ca4       0x64 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .text.alarms_light_led
+                0x00004d08       0x30 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+                0x00004d08                alarms_light_led
+ .text.alarms_safety_led
+                0x00004d38       0x18 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .text.alarms_beep_on
+                0x00004d50       0x10 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+                0x00004d50                alarms_beep_on
+ .text.alarms_beep_off
+                0x00004d60       0x14 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+                0x00004d60                alarms_beep_off
+ .text.alarms_beep_once.isra.2.constprop.7
+                0x00004d74       0x5c C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .text.alarms_switch_check
+                0x00004dd0       0x38 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .text.alarms_pulse_beep_duration
+                0x00004e08       0x6c C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .text.alarms_safety_process
+                0x00004e74       0x24 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .text.alarms_fault_handler
+                0x00004e98      0x48c C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+                0x00004e98                alarms_fault_handler
+ .text.uabVoltsConvert
+                0x00005324       0x84 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o)
+                0x00005324                uabVoltsConvert
+ .text.uabAdcRead
+                0x000053a8       0x48 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o)
+                0x000053a8                uabAdcRead
+ .text.uabCompVoltsRead
+                0x000053f0       0x88 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o)
+                0x000053f0                uabCompVoltsRead
+ .text.uabAdcVoltsRead
+                0x00005478       0x26 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o)
+                0x00005478                uabAdcVoltsRead
+ *fill*         0x0000549e        0x2 00
+ .text.uabAdcAmpsRead
+                0x000054a0       0x50 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o)
+                0x000054a0                uabAdcAmpsRead
+ .text.uabCompAdcInit
+                0x000054f0       0xb8 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o)
+                0x000054f0                uabCompAdcInit
+ .text.readInfoPage32
+                0x000055a8       0x24 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o)
+                0x000055a8                readInfoPage32
+ .text.writeInfoPage32
+                0x000055cc       0x50 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o)
+                0x000055cc                writeInfoPage32
+ .text.eraseInfoPage
+                0x0000561c       0x34 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o)
+                0x0000561c                eraseInfoPage
+ .text.uabInfoPageInit
+                0x00005650       0x80 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o)
+                0x00005650                uabInfoPageInit
+ .text.uabInfoPageGet
+                0x000056d0        0xa C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o)
+                0x000056d0                uabInfoPageGet
+ *fill*         0x000056da        0x2 00
+ .text.uabLoadInfoPageIrUnits
+                0x000056dc       0x58 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o)
+                0x000056dc                uabLoadInfoPageIrUnits
+ .text.PIOINT1_IRQHandler
+                0x00005734       0xc0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+                0x00005734                PIOINT1_IRQHandler
+ .text.uabIrInit
+                0x000057f4       0x30 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+                0x000057f4                uabIrInit
+ .text.uabIrPatternGet
+                0x00005824       0x7c C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+                0x00005824                uabIrPatternGet
+ .text.uabIrStateGet
+                0x000058a0      0x204 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+                0x000058a0                uabIrStateGet
+ .text.UART0_IRQHandler
+                0x00005aa4       0x9c C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x00005aa4                UART0_IRQHandler
+ .text.UART1_IRQHandler
+                0x00005b40       0x9c C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x00005b40                UART1_IRQHandler
+ .text.UARTInit
+                0x00005bdc      0x1c0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x00005bdc                UARTInit
+ .text.UARTSend
+                0x00005d9c       0x38 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x00005d9c                UARTSend
+ .text.xmitFifoBufSend
+                0x00005dd4       0x50 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x00005dd4                xmitFifoBufSend
+ .text.waitForAck
+                0x00005e24      0x104 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x00005e24                waitForAck
+ .text.xmitFifoBufLoad
+                0x00005f28       0x74 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x00005f28                xmitFifoBufLoad
+ .text.delayUsec
+                0x00005f9c       0x28 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(utils.o)
+                0x00005f9c                delayUsec
+ .text.delayMs  0x00005fc4       0x6c C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(utils.o)
+                0x00005fc4                delayMs
+ .text.wdtFeed  0x00006030       0x1c C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(wdt.o)
+                0x00006030                wdtFeed
+ .text.wdtEnable
+                0x0000604c       0x18 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(wdt.o)
+                0x0000604c                wdtEnable
+ .text.wdtInit  0x00006064       0x50 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(wdt.o)
+                0x00006064                wdtInit
+ .text.memcpy   0x000060b4        0x8 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memcpy.o)
+                0x000060b4                memcpy
+ .text.memset   0x000060bc        0x8 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memset.o)
+                0x000060bc                memset
+ .text.__weak_main
+                0x000060c4        0x8 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+                0x000060c4                __weak_main
+                0x000060c4                __main
+ *fill*         0x000060cc        0x4 00
+ .text.__aeabi_ddiv
+                0x000060d0      0x178 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+                0x000060d0                __aeabi_ddiv
+ .text.__aeabi_dsub
+                0x00006248      0x1d8 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+                0x00006248                __aeabi_dsub
+ .text.__aeabi_dadd
+                0x00006420      0x140 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+                0x00006420                __aeabi_dadd
+ .text.__aeabi_d2f
+                0x00006560       0x5c c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+                0x00006560                __aeabi_d2f
+ .text.__aeabi_dcmplt
+                0x000065bc       0x64 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+                0x000065bc                __aeabi_dcmplt
+ .text.__aeabi_dcmpge
+                0x00006620       0x64 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+                0x00006620                __aeabi_dcmpge
+ .text.__aeabi_fmul
+                0x00006684       0xd0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+                0x00006684                __aeabi_fmul
+ .text.__aeabi_fsub
+                0x00006754      0x124 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+                0x00006754                __aeabi_fsub
+ .text.__aeabi_fadd
+                0x00006878       0xa8 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+                0x00006878                __aeabi_fadd
+ .text.__bhs_ui2f
+                0x00006920       0x62 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+                0x00006920                __bhs_ui2f
+ .text.__aeabi_ui2f
+                0x00006982        0xc c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+                0x00006982                __aeabi_ui2f
+ *fill*         0x0000698e        0x2 00
+ .text.__aeabi_f2d
+                0x00006990       0x3c c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+                0x00006990                __aeabi_f2d
+ .text.__aeabi_fcmplt
+                0x000069cc       0x42 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+                0x000069cc                __aeabi_fcmplt
+ .text.__aeabi_fcmpgt
+                0x00006a0e       0x40 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+                0x00006a0e                __aeabi_fcmpgt
+ .text.__aeabi_fcmple
+                0x00006a4e       0x44 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+                0x00006a4e                __aeabi_fcmple
+ .text.__aeabi_llong_lmul
+                0x00006a92       0x2e c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(llong.o)
+                0x00006a92                __aeabi_lmul
+ .text.__aeabi_memcpy
+                0x00006ac0       0x2c c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(memcpy.o)
+                0x00006ac0                __aeabi_memcpy4
+                0x00006ac0                __aeabi_memcpy8
+                0x00006ac0                __aeabi_memcpy
+ .text.__aeabi_memset_lowlevel
+                0x00006aec       0x2a c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(memcpy.o)
+                0x00006aec                __aeabi_lowlevel_memset
+ .text.__gnu_thumb1_case_uqi
+                0x00006b16       0x10 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(thumb1_switch_helpers.o)
+                0x00006b16                __gnu_thumb1_case_uqi
+ .text.__gnu_thumb1_case_uhi
+                0x00006b26       0x10 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(thumb1_switch_helpers.o)
+                0x00006b26                __gnu_thumb1_case_uhi
+ *(.rodata .rodata.* .constdata .constdata.*)
+ *fill*         0x00006b36        0x2 00
+ .rodata.uabMotionSet
+                0x00006b38       0x24 ./src/uab_SIERRA.o
+                0x00006b5c                . = ALIGN (0x4)
+
+.glue_7         0x00006b5c        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x00006b5c        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x00006b5c        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x00006b5c        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x00006b5c                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00006b5c                __exidx_end = .
+                0x00006b5c                _etext = .
+
+.uninit_RESERVED
+                0x10000000        0x0
+ *(.bss.$RESERVED*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _end_uninit_RESERVED = .
+
+.data           0x10000000       0x30 load address 0x00006b5c
+ FILL mask 0xff
+                0x10000000                _data = .
+ *(vtable)
+ *(.data*)
+ .data.SeqNum   0x10000000        0x1 ./src/uab_SIERRA.o
+                0x10000000                SeqNum
+ *fill*         0x10000001        0x3 00
+ .data.prev_pio0.4904
+                0x10000004        0x4 ./src/uab_SIERRA.o
+ .data.prev_pio2.4905
+                0x10000008        0x4 ./src/uab_SIERRA.o
+ .data.first_pass.4841
+                0x1000000c        0x1 ./src/uab_SIERRA.o
+ .data.firstTime.4845
+                0x1000000d        0x1 ./src/uab_SIERRA.o
+ .data.charge1.4842
+                0x1000000e        0x1 ./src/uab_SIERRA.o
+ *fill*         0x1000000f        0x1 00
+ .data.minuteCntr.4734
+                0x10000010        0x4 ./src/uab_SIERRA.o
+ .data.displayVoltsCntr.4732
+                0x10000014        0x4 ./src/uab_SIERRA.o
+ .data          0x10000018        0x8 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\Debug\libCMSISv2p00_LPC12xx.a(system_LPC122x.o)
+                0x10000018                SystemCoreClock
+                0x1000001c                MainClock
+ .data.previous_alarm_state
+                0x10000020        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+                0x10000020                previous_alarm_state
+ .data.IrPwpProcessed
+                0x10000021        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+                0x10000021                IrPwpProcessed
+ *fill*         0x10000022        0x2 00
+ .data.UabIr0UnitNum
+                0x10000024        0x4 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+                0x10000024                UabIr0UnitNum
+ .data.UabIr1UnitNum
+                0x10000028        0x4 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+                0x10000028                UabIr1UnitNum
+ .data.UART0_TxEmpty
+                0x1000002c        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x1000002c                UART0_TxEmpty
+ .data.UART1_TxEmpty
+                0x1000002d        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x1000002d                UART1_TxEmpty
+                0x10000030                . = ALIGN (0x4)
+ *fill*         0x1000002e        0x2 ff
+                0x10000030                _edata = .
+
+.bss            0x10000030      0x99c load address 0x00006b8c
+                0x10000030                _bss = .
+ *(.bss*)
+ .bss.SysTicks  0x10000030        0x4 ./src/main_SIERRA.o
+                0x10000030                SysTicks
+ .bss.DelayCnt  0x10000034        0x4 ./src/main_SIERRA.o
+                0x10000034                DelayCnt
+ .bss.UabPioCnt
+                0x10000038        0x4 ./src/main_SIERRA.o
+ .bss.UpdateDelay
+                0x1000003c        0x1 ./src/main_SIERRA.o
+ *fill*         0x1000003d        0x3 00
+ .bss.IrBeepFast.4691
+                0x10000040        0x4 ./src/main_SIERRA.o
+ .bss.buff.4687
+                0x10000044       0x2c ./src/main_SIERRA.o
+ .bss.IrTimeout.4690
+                0x10000070        0x4 ./src/main_SIERRA.o
+ .bss.UnfoldedTime
+                0x10000074        0x1 ./src/sierra.o
+                0x10000074                UnfoldedTime
+ .bss.FoldedTime
+                0x10000075        0x1 ./src/sierra.o
+                0x10000075                FoldedTime
+ .bss.rampOverloadDelayRight.4563
+                0x10000076        0x1 ./src/sierra.o
+ .bss.rampOverloadCntRight.4564
+                0x10000077        0x1 ./src/sierra.o
+ .bss.rampTimeoutCntRight.4566
+                0x10000078        0x1 ./src/sierra.o
+ .bss.rampOverloadDelayLeft.4530
+                0x10000079        0x1 ./src/sierra.o
+ .bss.rampOverloadCntLeft.4531
+                0x1000007a        0x1 ./src/sierra.o
+ .bss.rampTimeoutCntLeft.4533
+                0x1000007b        0x1 ./src/sierra.o
+ .bss.UabSierraLeftsideRampPosition
+                0x1000007c        0x1 ./src/uab_SIERRA.o
+                0x1000007c                UabSierraLeftsideRampPosition
+ .bss.UabSierraRightsideRampPosition
+                0x1000007d        0x1 ./src/uab_SIERRA.o
+                0x1000007d                UabSierraRightsideRampPosition
+ .bss.UabSierraStartDownHoldoff
+                0x1000007e        0x1 ./src/uab_SIERRA.o
+                0x1000007e                UabSierraStartDownHoldoff
+ .bss.UabSierraStartUpHoldoff
+                0x1000007f        0x1 ./src/uab_SIERRA.o
+                0x1000007f                UabSierraStartUpHoldoff
+ .bss.UabMotorIsOff
+                0x10000080        0x1 ./src/uab_SIERRA.o
+                0x10000080                UabMotorIsOff
+ .bss.UabInstMode
+                0x10000081        0x1 ./src/uab_SIERRA.o
+                0x10000081                UabInstMode
+ .bss.UabTripDone
+                0x10000082        0x1 ./src/uab_SIERRA.o
+                0x10000082                UabTripDone
+ .bss.UabMajorFault
+                0x10000083        0x1 ./src/uab_SIERRA.o
+                0x10000083                UabMajorFault
+ .bss.UabMajorFaultInProgress
+                0x10000084        0x1 ./src/uab_SIERRA.o
+                0x10000084                UabMajorFaultInProgress
+ .bss.UabUpDownReleased
+                0x10000085        0x1 ./src/uab_SIERRA.o
+                0x10000085                UabUpDownReleased
+ *fill*         0x10000086        0x2 00
+ .bss.UabFaults
+                0x10000088        0x4 ./src/uab_SIERRA.o
+                0x10000088                UabFaults
+ .bss.PlatformRampChangeDelay
+                0x1000008c        0x1 ./src/uab_SIERRA.o
+                0x1000008c                PlatformRampChangeDelay
+ .bss.UabMotionState
+                0x1000008d        0x1 ./src/uab_SIERRA.o
+                0x1000008d                UabMotionState
+ .bss.UabUpDownLeftRightSwitchState
+                0x1000008e        0x1 ./src/uab_SIERRA.o
+                0x1000008e                UabUpDownLeftRightSwitchState
+ .bss.UabOffCharge
+                0x1000008f        0x1 ./src/uab_SIERRA.o
+                0x1000008f                UabOffCharge
+ .bss.UabOffchargeFlag
+                0x10000090        0x1 ./src/uab_SIERRA.o
+                0x10000090                UabOffchargeFlag
+ .bss.UabChargePercent
+                0x10000091        0x1 ./src/uab_SIERRA.o
+                0x10000091                UabChargePercent
+ *fill*         0x10000092        0x2 00
+ .bss.UabChargeTimer
+                0x10000094        0x4 ./src/uab_SIERRA.o
+                0x10000094                UabChargeTimer
+ .bss.UabChargeInProgress
+                0x10000098        0x1 ./src/uab_SIERRA.o
+                0x10000098                UabChargeInProgress
+ *fill*         0x10000099        0x3 00
+ .bss.UabChargePeriod
+                0x1000009c        0x4 ./src/uab_SIERRA.o
+                0x1000009c                UabChargePeriod
+ .bss.UabChargeDuration
+                0x100000a0        0x4 ./src/uab_SIERRA.o
+                0x100000a0                UabChargeDuration
+ .bss.SaveBatteryVolts
+                0x100000a4        0x4 ./src/uab_SIERRA.o
+                0x100000a4                SaveBatteryVolts
+ .bss.SaveChargeVolts
+                0x100000a8        0x4 ./src/uab_SIERRA.o
+                0x100000a8                SaveChargeVolts
+ .bss.UabSense12Volts
+                0x100000ac        0x4 ./src/uab_SIERRA.o
+                0x100000ac                UabSense12Volts
+ .bss.UabMajorFaultCause
+                0x100000b0        0x4 ./src/uab_SIERRA.o
+                0x100000b0                UabMajorFaultCause
+ .bss.UabBatteryVolts
+                0x100000b4        0x4 ./src/uab_SIERRA.o
+                0x100000b4                UabBatteryVolts
+ .bss.UabSystemOverLoadAmps
+                0x100000b8        0x4 ./src/uab_SIERRA.o
+                0x100000b8                UabSystemOverLoadAmps
+ .bss.UabSystemOverLoadScaledAmps
+                0x100000bc        0x4 ./src/uab_SIERRA.o
+                0x100000bc                UabSystemOverLoadScaledAmps
+ .bss.UabRunawayAmps
+                0x100000c0        0x4 ./src/uab_SIERRA.o
+                0x100000c0                UabRunawayAmps
+ .bss.UabMDriveState
+                0x100000c4        0x1 ./src/uab_SIERRA.o
+                0x100000c4                UabMDriveState
+ .bss.UabChargerState
+                0x100000c5        0x1 ./src/uab_SIERRA.o
+                0x100000c5                UabChargerState
+ .bss.UabChargerInitState
+                0x100000c6        0x1 ./src/uab_SIERRA.o
+                0x100000c6                UabChargerInitState
+ .bss.UabInitComplete
+                0x100000c7        0x1 ./src/uab_SIERRA.o
+                0x100000c7                UabInitComplete
+ .bss.UabCommEnabled
+                0x100000c8        0x1 ./src/uab_SIERRA.o
+                0x100000c8                UabCommEnabled
+ .bss.UabLed    0x100000c9        0x1 ./src/uab_SIERRA.o
+                0x100000c9                UabLed
+ .bss.prevUabIrUpDownState.4953
+                0x100000ca        0x1 ./src/uab_SIERRA.o
+ *fill*         0x100000cb        0x1 00
+ .bss.prev_faults.4911
+                0x100000cc        0x4 ./src/uab_SIERRA.o
+ .bss.stop_time.4872
+                0x100000d0        0x2 ./src/uab_SIERRA.o
+ .bss.up_left_delay.4874
+                0x100000d2        0x2 ./src/uab_SIERRA.o
+ .bss.ir_delay.4873
+                0x100000d4        0x2 ./src/uab_SIERRA.o
+ .bss.down_right_delay.4875
+                0x100000d6        0x2 ./src/uab_SIERRA.o
+ .bss.waitTime.4844
+                0x100000d8        0x4 ./src/uab_SIERRA.o
+ .bss.doWait.4843
+                0x100000dc        0x1 ./src/uab_SIERRA.o
+ *fill*         0x100000dd        0x3 00
+ .bss.bat_volts.4839
+                0x100000e0        0x4 ./src/uab_SIERRA.o
+ .bss.charge_volts.4838
+                0x100000e4        0x4 ./src/uab_SIERRA.o
+ .bss.offchargeReported.4846
+                0x100000e8        0x1 ./src/uab_SIERRA.o
+ *fill*         0x100000e9        0x3 00
+ .bss.charge_duration.4840
+                0x100000ec        0x4 ./src/uab_SIERRA.o
+ .bss.SolClearDelay.4794
+                0x100000f0        0x4 ./src/uab_SIERRA.o
+ .bss.ind.4777  0x100000f4        0x1 ./src/uab_SIERRA.o
+ *fill*         0x100000f5        0x3 00
+ .bss.bat_volts.4776
+                0x100000f8       0x14 ./src/uab_SIERRA.o
+ .bss.ind.4764  0x1000010c        0x1 ./src/uab_SIERRA.o
+ *fill*         0x1000010d        0x3 00
+ .bss.bat_volts.4763
+                0x10000110       0x14 ./src/uab_SIERRA.o
+ .bss.ind.4751  0x10000124        0x1 ./src/uab_SIERRA.o
+ *fill*         0x10000125        0x3 00
+ .bss.bat_volts.4750
+                0x10000128       0x14 ./src/uab_SIERRA.o
+ .bss.causeCntr.4733
+                0x1000013c        0x1 ./src/uab_SIERRA.o
+ .bss.doBeepOn.4735
+                0x1000013d        0x1 ./src/uab_SIERRA.o
+ .bss.doBeepOnCntr.4736
+                0x1000013e        0x1 ./src/uab_SIERRA.o
+ .bss.doBeepOff.4737
+                0x1000013f        0x1 ./src/uab_SIERRA.o
+ .bss.doBeepOffCntr.4738
+                0x10000140        0x1 ./src/uab_SIERRA.o
+ *fill*         0x10000141        0x3 00
+ .bss.faults_serviced
+                0x10000144        0x4 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+                0x10000144                faults_serviced
+ .bss.alarm_state
+                0x10000148        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+                0x10000148                alarm_state
+ .bss.previous_switch_state
+                0x10000149        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+                0x10000149                previous_switch_state
+ .bss.IrIntrDetected
+                0x1000014a        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+                0x1000014a                IrIntrDetected
+ .bss.IrLearning
+                0x1000014b        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+                0x1000014b                IrLearning
+ .bss.UabIrState
+                0x1000014c        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+                0x1000014c                UabIrState
+ .bss.XmitMsgRetryCnt
+                0x1000014d        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x1000014d                XmitMsgRetryCnt
+ *fill*         0x1000014e        0x2 00
+ .bss.UART1_Count
+                0x10000150        0x4 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x10000150                UART1_Count
+ .bss.NakCntr   0x10000154        0x4 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x10000154                NakCntr
+ .bss.XmitFifoBufNum
+                0x10000158        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x10000158                XmitFifoBufNum
+ .bss.XmitErrDataLen
+                0x10000159        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x10000159                XmitErrDataLen
+ *fill*         0x1000015a        0x2 00
+ .bss.AckCntr   0x1000015c        0x4 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x1000015c                AckCntr
+ .bss.NakRetryCnt
+                0x10000160        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x10000160                NakRetryCnt
+ *fill*         0x10000161        0x3 00
+ .bss.OtherCntr
+                0x10000164        0x4 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x10000164                OtherCntr
+ .bss.XmitMsgNum
+                0x10000168        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x10000168                XmitMsgNum
+ .bss.XmitErrFifoOveflow
+                0x10000169        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x10000169                XmitErrFifoOveflow
+ *fill*         0x1000016a        0x2 00
+ .bss.UART0_Status
+                0x1000016c        0x4 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x1000016c                UART0_Status
+ .bss.NoCommCnt
+                0x10000170        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x10000170                NoCommCnt
+ .bss.WaitForAckTimeout
+                0x10000171        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x10000171                WaitForAckTimeout
+ *fill*         0x10000172        0x2 00
+ .bss.UART1_Status
+                0x10000174        0x4 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x10000174                UART1_Status
+ .bss.UART0_Count
+                0x10000178        0x4 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x10000178                UART0_Count
+ .bss.WaitForAck
+                0x1000017c        0x1 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x1000017c                WaitForAck
+ *fill*         0x1000017d        0x3 00
+ .bss.wdtCnt.4274
+                0x10000180        0x4 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(utils.o)
+ *(COMMON)
+ COMMON         0x10000184        0x8 ./startup/cr_startup_lpc12xx.o
+                0x10000184                pDivRom_uidiv
+                0x10000188                pDivRom_idiv
+ COMMON         0x1000018c        0x1 ./src/sierra.o
+                0x1000018c                prevPlatformPosition
+ *fill*         0x1000018d        0x3 00
+ COMMON         0x10000190       0x12 ./src/uab_SIERRA.o
+                0x10000190                UabUpDownState
+                0x10000191                UabBegPwm
+                0x10000192                UabPwmStep
+                0x10000193                UabInstUpDownState
+                0x10000194                UabRampInterval
+                0x10000198                UabSystemId
+                0x1000019c                UabIrUpDownState
+                0x1000019d                UabPwm
+                0x1000019e                UabSierraPlatformMounting
+                0x1000019f                UabBrakeState
+                0x100001a0                UabEndPwm
+                0x100001a1                UabSierraPlatformPosition
+ *fill*         0x100001a2        0x2 00
+ COMMON         0x100001a4        0x7 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+                0x100001a4                previous_faults
+                0x100001a8                alarm_counter
+                0x100001aa                alarm_active
+ *fill*         0x100001ab        0x1 00
+ COMMON         0x100001ac       0x68 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+                0x100001ac                IrPwp
+ COMMON         0x10000214      0x7b8 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                0x10000214                UART1_XmitBuf
+                0x10000254                UART1_Buffer
+                0x10000294                XmitFifoBuf
+                0x1000094c                UART0_XmitBuf
+                0x1000098c                UART0_Buffer
+                0x100009cc                . = ALIGN (0x4)
+                0x100009cc                _ebss = .
+                0x100009cc                PROVIDE (end, .)
+
+.noinit         0x100009cc        0x0 load address 0x00006b8c
+                0x100009cc                _noinit = .
+ *(.noinit*)
+                0x100009cc                . = ALIGN (0x4)
+                0x100009cc                _end_noinit = .
+                0x100009cc                PROVIDE (_pvHeapStart, .)
+                0x10001f00                PROVIDE (_vStackTop, (__top_RamLoc8 - 0x100))
+OUTPUT(UAB_SIERRA.axf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x2d
+ .ARM.attributes
+                0x00000000       0x21 ./startup/aeabi_romdiv_patch.o
+ .ARM.attributes
+                0x00000021       0x31 ./startup/cr_startup_lpc12xx.o
+ .ARM.attributes
+                0x00000052       0x31 ./src/main_SIERRA.o
+ .ARM.attributes
+                0x00000083       0x31 ./src/sierra.o
+ .ARM.attributes
+                0x000000b4       0x31 ./src/uab_SIERRA.o
+ .ARM.attributes
+                0x000000e5       0x31 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\Debug\libCMSISv2p00_LPC12xx.a(system_LPC122x.o)
+ .ARM.attributes
+                0x00000116       0x31 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .ARM.attributes
+                0x00000147       0x31 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o)
+ .ARM.attributes
+                0x00000178       0x31 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o)
+ .ARM.attributes
+                0x000001a9       0x31 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+ .ARM.attributes
+                0x000001da       0x31 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+ .ARM.attributes
+                0x0000020b       0x31 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(utils.o)
+ .ARM.attributes
+                0x0000023c       0x31 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(wdt.o)
+ .ARM.attributes
+                0x0000026d       0x31 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memcpy.o)
+ .ARM.attributes
+                0x0000029e       0x31 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memset.o)
+ .ARM.attributes
+                0x000002cf       0x31 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+ .ARM.attributes
+                0x00000300       0x31 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+ .ARM.attributes
+                0x00000331       0x31 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+ .ARM.attributes
+                0x00000362       0x21 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(llong.o)
+ .ARM.attributes
+                0x00000383       0x21 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(memcpy.o)
+ .ARM.attributes
+                0x000003a4       0x21 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(thumb1_switch_helpers.o)
+
+.comment        0x00000000       0xe0
+ .comment       0x00000000       0x70 ./startup/cr_startup_lpc12xx.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 ./src/main_SIERRA.o
+ .comment       0x00000000       0x71 ./src/sierra.o
+ .comment       0x00000000       0x71 ./src/uab_SIERRA.o
+ .comment       0x00000000       0x71 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\Debug\libCMSISv2p00_LPC12xx.a(system_LPC122x.o)
+ .comment       0x00000000       0x71 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .comment       0x00000000       0x71 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o)
+ .comment       0x00000000       0x71 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o)
+ .comment       0x00000000       0x71 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+ .comment       0x00000000       0x71 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+ .comment       0x00000000       0x71 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(utils.o)
+ .comment       0x00000000       0x71 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(wdt.o)
+ .comment       0x00000000       0x71 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memcpy.o)
+ .comment       0x00000000       0x71 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memset.o)
+ .comment       0x00000000       0x71 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+ .comment       0x00000070       0x70 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(double.o)
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv6-m\libcr_eabihelpers.a(float.o)
+
+.debug_line     0x00000000     0x47f6
+ .debug_line    0x00000000       0x67 ./startup/aeabi_romdiv_patch.o
+ .debug_line    0x00000067      0x432 ./startup/cr_startup_lpc12xx.o
+ .debug_line    0x00000499      0x6f8 ./src/main_SIERRA.o
+ .debug_line    0x00000b91      0x728 ./src/sierra.o
+ .debug_line    0x000012b9      0xe2f ./src/uab_SIERRA.o
+ .debug_line    0x000020e8      0x408 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\Debug\libCMSISv2p00_LPC12xx.a(system_LPC122x.o)
+ .debug_line    0x000024f0      0x5e9 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .debug_line    0x00002ad9      0x486 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o)
+ .debug_line    0x00002f5f      0x4cf C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o)
+ .debug_line    0x0000342e      0x517 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+ .debug_line    0x00003945      0x682 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+ .debug_line    0x00003fc7      0x41f C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(utils.o)
+ .debug_line    0x000043e6      0x410 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(wdt.o)
+
+.debug_info     0x00000000     0x77ba
+ .debug_info    0x00000000       0x86 ./startup/aeabi_romdiv_patch.o
+ .debug_info    0x00000086      0x350 ./startup/cr_startup_lpc12xx.o
+ .debug_info    0x000003d6      0xd3d ./src/main_SIERRA.o
+ .debug_info    0x00001113      0x7f3 ./src/sierra.o
+ .debug_info    0x00001906     0x1a7f ./src/uab_SIERRA.o
+ .debug_info    0x00003385      0x697 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\Debug\libCMSISv2p00_LPC12xx.a(system_LPC122x.o)
+ .debug_info    0x00003a1c      0xa24 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .debug_info    0x00004440      0xc83 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o)
+ .debug_info    0x000050c3      0x36e C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o)
+ .debug_info    0x00005431      0x69e C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+ .debug_info    0x00005acf     0x14bc C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+ .debug_info    0x00006f8b      0x1b8 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(utils.o)
+ .debug_info    0x00007143      0x677 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(wdt.o)
+
+.debug_abbrev   0x00000000     0x131e
+ .debug_abbrev  0x00000000       0x12 ./startup/aeabi_romdiv_patch.o
+ .debug_abbrev  0x00000012      0x137 ./startup/cr_startup_lpc12xx.o
+ .debug_abbrev  0x00000149      0x1ea ./src/main_SIERRA.o
+ .debug_abbrev  0x00000333      0x19f ./src/sierra.o
+ .debug_abbrev  0x000004d2      0x1d9 ./src/uab_SIERRA.o
+ .debug_abbrev  0x000006ab      0x139 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\Debug\libCMSISv2p00_LPC12xx.a(system_LPC122x.o)
+ .debug_abbrev  0x000007e4      0x2a5 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .debug_abbrev  0x00000a89      0x152 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o)
+ .debug_abbrev  0x00000bdb      0x127 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o)
+ .debug_abbrev  0x00000d02      0x1a7 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+ .debug_abbrev  0x00000ea9      0x279 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+ .debug_abbrev  0x00001122       0xf4 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(utils.o)
+ .debug_abbrev  0x00001216      0x108 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(wdt.o)
+
+.debug_aranges  0x00000000      0x4f0
+ .debug_aranges
+                0x00000000       0x28 ./startup/aeabi_romdiv_patch.o
+ .debug_aranges
+                0x00000028       0x60 ./startup/cr_startup_lpc12xx.o
+ .debug_aranges
+                0x00000088       0x48 ./src/main_SIERRA.o
+ .debug_aranges
+                0x000000d0       0x70 ./src/sierra.o
+ .debug_aranges
+                0x00000140      0x178 ./src/uab_SIERRA.o
+ .debug_aranges
+                0x000002b8       0x30 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\Debug\libCMSISv2p00_LPC12xx.a(system_LPC122x.o)
+ .debug_aranges
+                0x000002e8       0x80 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .debug_aranges
+                0x00000368       0x48 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o)
+ .debug_aranges
+                0x000003b0       0x48 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o)
+ .debug_aranges
+                0x000003f8       0x38 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+ .debug_aranges
+                0x00000430       0x60 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+ .debug_aranges
+                0x00000490       0x28 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(utils.o)
+ .debug_aranges
+                0x000004b8       0x38 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(wdt.o)
+
+.debug_ranges   0x00000000      0x440
+ .debug_ranges  0x00000000       0x20 ./startup/aeabi_romdiv_patch.o
+ .debug_ranges  0x00000020       0x50 ./startup/cr_startup_lpc12xx.o
+ .debug_ranges  0x00000070       0x38 ./src/main_SIERRA.o
+ .debug_ranges  0x000000a8       0x60 ./src/sierra.o
+ .debug_ranges  0x00000108      0x168 ./src/uab_SIERRA.o
+ .debug_ranges  0x00000270       0x20 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\Debug\libCMSISv2p00_LPC12xx.a(system_LPC122x.o)
+ .debug_ranges  0x00000290       0x88 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .debug_ranges  0x00000318       0x38 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o)
+ .debug_ranges  0x00000350       0x38 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o)
+ .debug_ranges  0x00000388       0x28 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+ .debug_ranges  0x000003b0       0x50 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+ .debug_ranges  0x00000400       0x18 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(utils.o)
+ .debug_ranges  0x00000418       0x28 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(wdt.o)
+
+.debug_loc      0x00000000     0x21e1
+ .debug_loc     0x00000000      0x1b0 ./startup/cr_startup_lpc12xx.o
+ .debug_loc     0x000001b0      0x148 ./src/main_SIERRA.o
+ .debug_loc     0x000002f8      0x268 ./src/sierra.o
+ .debug_loc     0x00000560      0x8e6 ./src/uab_SIERRA.o
+ .debug_loc     0x00000e46       0x98 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\Debug\libCMSISv2p00_LPC12xx.a(system_LPC122x.o)
+ .debug_loc     0x00000ede      0x5aa C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .debug_loc     0x00001488      0x308 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o)
+ .debug_loc     0x00001790      0x21d C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o)
+ .debug_loc     0x000019ad      0x29d C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+ .debug_loc     0x00001c4a      0x407 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+ .debug_loc     0x00002051      0x110 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(utils.o)
+ .debug_loc     0x00002161       0x80 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(wdt.o)
+
+.debug_macinfo  0x00000000    0x542ac
+ .debug_macinfo
+                0x00000000     0x5b60 ./startup/cr_startup_lpc12xx.o
+ .debug_macinfo
+                0x00005b60     0x84a1 ./src/main_SIERRA.o
+ .debug_macinfo
+                0x0000e001     0x768e ./src/sierra.o
+ .debug_macinfo
+                0x0001568f     0x8358 ./src/uab_SIERRA.o
+ .debug_macinfo
+                0x0001d9e7     0x5e2c C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\Debug\libCMSISv2p00_LPC12xx.a(system_LPC122x.o)
+ .debug_macinfo
+                0x00023813     0x7636 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .debug_macinfo
+                0x0002ae49     0x756e C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o)
+ .debug_macinfo
+                0x000323b7     0x76da C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o)
+ .debug_macinfo
+                0x00039a91     0x7532 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+ .debug_macinfo
+                0x00040fc3     0x76c0 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+ .debug_macinfo
+                0x00048683     0x5e54 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(utils.o)
+ .debug_macinfo
+                0x0004e4d7     0x5dd5 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(wdt.o)
+
+.debug_str      0x00000000     0x2250
+ .debug_str     0x00000000      0x26d ./startup/cr_startup_lpc12xx.o
+                                0x295 (size before relaxing)
+ .debug_str     0x0000026d      0x760 ./src/main_SIERRA.o
+                                0x8b7 (size before relaxing)
+ .debug_str     0x000009cd      0x3b7 ./src/sierra.o
+                                0x519 (size before relaxing)
+ .debug_str     0x00000d84      0x9d6 ./src/uab_SIERRA.o
+                                0xda4 (size before relaxing)
+ .debug_str     0x0000175a       0xc5 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\Debug\libCMSISv2p00_LPC12xx.a(system_LPC122x.o)
+                                0x464 (size before relaxing)
+ .debug_str     0x0000181f      0x543 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+                                0x813 (size before relaxing)
+ .debug_str     0x00001d62       0xd6 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o)
+                                0x696 (size before relaxing)
+ .debug_str     0x00001e38       0xf5 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o)
+                                0x235 (size before relaxing)
+ .debug_str     0x00001f2d       0x6c C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+                                0x48f (size before relaxing)
+ .debug_str     0x00001f99      0x235 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+                                0xa69 (size before relaxing)
+ .debug_str     0x000021ce       0x50 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(utils.o)
+                                0x18d (size before relaxing)
+ .debug_str     0x0000221e       0x32 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(wdt.o)
+                                0x451 (size before relaxing)
+
+.debug_frame    0x00000000      0xdec
+ .debug_frame   0x00000000      0x118 ./startup/cr_startup_lpc12xx.o
+ .debug_frame   0x00000118       0xd0 ./src/main_SIERRA.o
+ .debug_frame   0x000001e8      0x170 ./src/sierra.o
+ .debug_frame   0x00000358      0x554 ./src/uab_SIERRA.o
+ .debug_frame   0x000008ac       0x54 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\CMSISv2p00_LPC12xx\Debug\libCMSISv2p00_LPC12xx.a(system_LPC122x.o)
+ .debug_frame   0x00000900      0x148 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(alarms.o)
+ .debug_frame   0x00000a48       0xac C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(compadc.o)
+ .debug_frame   0x00000af4       0xa8 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(iap.o)
+ .debug_frame   0x00000b9c       0x84 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(ir.o)
+ .debug_frame   0x00000c20      0x10c C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(uart.o)
+ .debug_frame   0x00000d2c       0x4c C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(utils.o)
+ .debug_frame   0x00000d78       0x74 C:\Users\Zhang\OneDrive\SUNS\Project\Harmar\Work\UAB_COMMON_LIB\Lib\libUAB_COMMON_LIB.a(wdt.o)
